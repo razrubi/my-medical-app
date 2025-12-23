@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "system": "Cardiology",
+        "question": "A patient presents with harsh systolic ejection murmur at RUSB radiating to carotids. What is the diagnosis?",
+        "options": ["Mitral Regurgitation", "Aortic Stenosis", "Tricuspid Stenosis", "HOCM"],
+        "correct_index": 1,
+        "explanation": "Aortic Stenosis presents with a systolic crescendo-decrescendo murmur at the Right Upper Sternal Border (RUSB) radiating to carotids."
+    },
+    {
+        "id": 2,
+        "system": "Cardiology",
+        "question": "Which medication improves survival in HFrEF?",
+        "options": ["Furosemide", "Digoxin", "Beta Blockers", "Aspirin"],
+        "correct_index": 2,
+        "explanation": "Beta-blockers (along with ACEi/ARBs/ARNI and MRAs) are proven to reduce mortality in Heart Failure with reduced Ejection Fraction."
+    },
+    {
+        "id": 3,
+        "system": "Respiratory",
+        "question": "Most common trigger for COPD exacerbation?",
+        "options": ["PE", "Infection", "Non-compliance", "Allergies"],
+        "correct_index": 1,
+        "explanation": "Viral or bacterial respiratory infections are the most common cause of acute COPD exacerbations."
+    },
+    {
+        "id": 4,
+        "system": "Respiratory",
+        "question": "Light's criteria for exudative pleural effusion include:",
+        "options": ["Pleural/Serum Protein > 0.5", "Pleural/Serum LDH < 0.6", "Pleural Glucose < 60", "pH < 7.2"],
+        "correct_index": 0,
+        "explanation": "Light's criteria: Pleural/Serum Protein > 0.5 OR Pleural/Serum LDH > 0.6 OR Pleural LDH > 2/3 upper limit of normal serum LDH."
+    },
+    {
+        "id": 5,
+        "system": "Gastroenterology",
+        "question": "First-line Quadruple Therapy for H. pylori?",
+        "options": ["Amoxicillin + Clarithromycin", "Bismuth + Metronidazole + Tetracycline + PPI", "Cipro + Metro", "Levofloxacin based"],
+        "correct_index": 1,
+        "explanation": "Bismuth Quadruple Therapy is preferred, especially in areas with high clarithromycin resistance."
+    },
+    {
+        "id": 6,
+        "system": "Gastroenterology",
+        "question": "Diagnosis of Spontaneous Bacterial Peritonitis (SBP)?",
+        "options": ["Ascitic PMN > 250", "Positive Culture only", "Total WBC > 500", "Low protein"],
+        "correct_index": 0,
+        "explanation": "SBP is diagnosed when ascitic fluid absolute neutrophil count (PMN) is > 250 cells/mm3."
+    },
+    {
+        "id": 7,
+        "system": "Nephrology",
+        "question": "Earliest ECG finding in Hyperkalemia?",
+        "options": ["Wide QRS", "Peaked T waves", "Flat P waves", "Sine wave"],
+        "correct_index": 1,
+        "explanation": "Peaked T waves are the earliest sign. Later signs include PR prolongation and QRS widening."
+    },
+    {
+        "id": 8,
+        "system": "Nephrology",
+        "question": "Muddy brown casts are pathognomonic for:",
+        "options": ["Acute Interstitial Nephritis", "Acute Tubular Necrosis (ATN)", "Glomerulonephritis", "Pyelonephritis"],
+        "correct_index": 1,
+        "explanation": "Muddy brown (granular) casts are the hallmark finding of Acute Tubular Necrosis (ATN)."
+    },
+    {
+        "id": 9,
+        "system": "Infectious Disease",
+        "question": "Triad of Bacterial Meningitis?",
+        "options": ["Headache, Vomiting, Rash", "Fever, Nuchal Rigidity, Altered Mental Status", "Fever, Seizure, Focal Deficit", "Headache, Photophobia, Fever"],
+        "correct_index": 1,
+        "explanation": "The classic triad is Fever, Nuchal Rigidity, and Altered Mental Status."
+    },
+    {
+        "id": 10,
+        "system": "Infectious Disease",
+        "question": "Treatment of choice for Syphilis (primary/secondary)?",
+        "options": ["Doxycycline", "Azithromycin", "Benzathine Penicillin G", "Ceftriaxone"],
+        "correct_index": 2,
+        "explanation": "Intramuscular Benzathine Penicillin G is the treatment of choice for primary and secondary syphilis."
+    }
+]

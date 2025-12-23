@@ -1,0 +1,92 @@
+[
+    {
+        "id": 101,
+        "system": "Esophagus",
+        "question": "According to the summary, which of the following is a treatment option for Achalasia?",
+        "options": ["Proton Pump Inhibitors (PPI)", "Botox Injection", "Appendectomy", "Gluten-free diet"],
+        "correct_index": 1,
+        "explanation": "Treatments for Achalasia mentioned in the summary include: Pneumatic dilation, Myotomy, POEM, and Botox injections.",
+        "source": "Personal Summary Table - Esophagus Row"
+    },
+    {
+        "id": 102,
+        "system": "Esophagus",
+        "question": "What is a major complication of long-standing GERD mentioned in the table?",
+        "options": ["Squamous Cell Carcinoma", "Barrett's Esophagus", "Achalasia", "Zenker's Diverticulum"],
+        "correct_index": 1,
+        "explanation": "GERD can lead to Barrett's Esophagus (metaplasia), which is a risk factor for Adenocarcinoma.",
+        "source": "Personal Summary Table - GERD Row"
+    },
+    {
+        "id": 103,
+        "system": "Stomach",
+        "question": "Zollinger-Ellison Syndrome is caused by a neuroendocrine tumor secreting which hormone?",
+        "options": ["Insulin", "Glucagon", "Gastrin", "Somatostatin"],
+        "correct_index": 2,
+        "explanation": "Zollinger-Ellison Syndrome is characterized by a Gastrinoma (gastrin-secreting tumor), leading to multiple peptic ulcers.",
+        "source": "Personal Summary Table - Gastrinoma Row"
+    },
+    {
+        "id": 104,
+        "system": "Stomach",
+        "question": "Which genetic markers are associated with Celiac Disease?",
+        "options": ["HLA-B27", "HLA-DQ2 / HLA-DQ8", "BRCA1 / BRCA2", "APC Gene"],
+        "correct_index": 1,
+        "explanation": "Celiac disease is strongly associated with HLA-DQ2 and HLA-DQ8. The summary notes that if these are negative, Celiac is unlikely (high negative predictive value).",
+        "source": "Personal Summary Table - Celiac Row"
+    },
+    {
+        "id": 105,
+        "system": "IBD",
+        "question": "Which finding is characteristic of Crohn's Disease but NOT Ulcerative Colitis?",
+        "options": ["Rectal involvement", "Continuous inflammation", "Skip lesions (Cobblestone appearance)", "Mucosal limitation"],
+        "correct_index": 2,
+        "explanation": "Crohn's disease features 'Skip lesions' and transmural inflammation (granulomas), whereas UC is continuous and limited to the mucosa.",
+        "source": "Personal Summary Table - IBD Row"
+    },
+    {
+        "id": 106,
+        "system": "IBD",
+        "question": "Muddy brown casts in urine are pathognomonic for which condition?",
+        "options": ["Acute Interstitial Nephritis", "Acute Tubular Necrosis (ATN)", "Glomerulonephritis", "Pyelonephritis"],
+        "correct_index": 1,
+        "explanation": "Muddy brown (granular) casts are the hallmark finding of Acute Tubular Necrosis (ATN).",
+        "source": "Personal Summary Table - Nephrology Section"
+    },
+    {
+        "id": 107,
+        "system": "Pancreas",
+        "question": "Which tumor marker is associated with Pancreatic Cancer?",
+        "options": ["PSA", "CA-125", "CA 19-9", "AFP"],
+        "correct_index": 2,
+        "explanation": "CA 19-9 is the tumor marker associated with Pancreatic adenocarcinoma.",
+        "source": "Personal Summary Table - Pancreas Row"
+    },
+    {
+        "id": 108,
+        "system": "Pancreas",
+        "question": "What is Courvoisier's sign?",
+        "options": ["Painful jaundice", "Palpable, non-tender gallbladder with jaundice", "Left lower quadrant pain", "Periumbilical bruising"],
+        "correct_index": 1,
+        "explanation": "Courvoisier's sign refers to a palpable, non-tender gallbladder in a jaundiced patient, suggestive of a pancreatic head tumor obstructing the bile duct.",
+        "source": "Personal Summary Table - Pancreas Row"
+    },
+    {
+        "id": 109,
+        "system": "Stomach",
+        "question": "What is the primary treatment for H. pylori infection listed in the summary?",
+        "options": ["Surgery", "Dietary changes alone", "Antibiotics + PPI", "Chemotherapy"],
+        "correct_index": 2,
+        "explanation": "The summary indicates treatment involves eradication using antibiotics (e.g., Clarithromycin, Amoxicillin, Metronidazole) combined with a PPI.",
+        "source": "Personal Summary Table - H. Pylori Row"
+    },
+    {
+        "id": 110,
+        "system": "Celiac",
+        "question": "Which antibody is used for screening Celiac Disease?",
+        "options": ["Anti-Nuclear Antibody (ANA)", "Anti-Tissue Transglutaminase (Anti-TTG) IgA", "Anti-dsDNA", "Rheumatoid Factor"],
+        "correct_index": 1,
+        "explanation": "Anti-TTG IgA is the primary screening antibody. Anti-Endomysial (Anti-EMA) is also used but TTG is the standard first line mentioned.",
+        "source": "Personal Summary Table - Celiac Row"
+    }
+]
