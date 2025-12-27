@@ -1,0 +1,4551 @@
+{
+  "Cluster 2": {
+    "systems": {
+        
+
+
+      "Liver System": {
+        "drawers": {
+          "General": {
+            "description": "Approach to Abnormal LFTs, Enzymes, Fibrosis",
+            "content": {
+              "Approach to Abnormal Liver Function Tests": {
+                "Anamnesis": [
+                  {
+                    "question": "Which of the following should be considered during anamnesis when evaluating abnormal liver function tests?",
+                    "options": [
+                      "Viral hepatitis (A, B, C)",
+                      "Alcoholic liver disease",
+                      "Drug-induced liver injury (DILI)",
+                      "Cholestasis"
+                    ],
+                    "correct_index": 0,
+                    "explanation": "Viral hepatitis, alcohol, and drugs are key historical factors."
+                  },
+                  {
+                    "question": "Which condition mentioned in the anamnesis is often associated with pruritus?",
+                    "options": [
+                      "Viral hepatitis",
+                      "Alcoholic liver disease",
+                      "Cholestasis",
+                      "Fatty liver disease"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Pruritus (itching) is a hallmark symptom of cholestatic liver disease."
+                  }
+                ],
+                "Enzymes": [
+                  {
+                    "question": "AST and ALT are best described as:",
+                    "options": [
+                      "Cholestatic enzymes",
+                      "Hepatocellular (transaminase) enzymes",
+                      "Synthetic liver function markers",
+                      "Immune markers"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "AST and ALT reflect hepatocellular injury (leakage from damaged cells)."
+                  },
+                  {
+                    "question": "Which statement regarding AST is correct?",
+                    "options": [
+                      "It is specific to the liver",
+                      "It has a longer half-life than ALT",
+                      "It can be found in muscle destruction",
+                      "It is a cholestatic enzyme"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "AST is less specific than ALT and is found in cardiac muscle, skeletal muscle, kidneys, and brain."
+                  },
+                  {
+                    "question": "Which enzyme is more specific to the liver and has a longer half-life?",
+                    "options": [
+                      "AST",
+                      "ALT",
+                      "ALP",
+                      "GGT"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "ALT is more specific to the liver than AST and has a longer half-life."
+                  },
+                  {
+                    "question": "ALP and GGT are primarily associated with:",
+                    "options": [
+                      "Hepatocellular injury",
+                      "Muscle injury",
+                      "Cholestatic liver injury",
+                      "Synthetic liver dysfunction"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Elevations in ALP and GGT suggest cholestasis (biliary obstruction or infiltration)."
+                  },
+                  {
+                    "question": "Which statement about GGT is correct?",
+                    "options": [
+                      "It is highly specific for cholestasis",
+                      "It rises only in biliary obstruction",
+                      "It is sensitive but not specific",
+                      "It decreases in alcohol consumption"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "GGT is very sensitive for biliary disease but not specific; it can be induced by alcohol and drugs."
+                  },
+                  {
+                    "question": "Which laboratory markers are used to assess the synthetic function of the liver?",
+                    "options": [
+                      "AST and ALT",
+                      "ALP and GGT",
+                      "PT (INR) and Albumin",
+                      "Globulin and GGT"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Prothrombin time (PT/INR) and Albumin levels reflect the liver's ability to synthesize proteins."
+                  }
+                ],
+                "Fibrosis": [
+                  {
+                    "question": "According to the Metavir score, what does F4 represent?",
+                    "options": [
+                      "No fibrosis",
+                      "Mild fibrosis",
+                      "Severe fibrosis without nodules",
+                      "Cirrhosis with nodules"
+                    ],
+                    "correct_index": 3,
+                    "explanation": "F4 in the Metavir scoring system represents Cirrhosis."
+                  },
+                  {
+                    "question": "A Fib-4 score lower than 1.3 indicates:",
+                    "options": [
+                      "High probability of cirrhosis",
+                      "90% negative predictive value for absence of significant fibrosis (F0\u2013F1)",
+                      "Definite autoimmune liver disease",
+                      "Acute cholestatic injury"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "A FIB-4 score < 1.3 has a high negative predictive value for ruling out advanced fibrosis."
+                  }
+                ]
+              }
+            }
+          },
+          "Hepatitis": {
+            "description": "Viral and Autoimmune Hepatitis: Etiology, Diagnosis, and Treatment",
+            "content": {
+              "Viruses": {
+                "HAV": [
+                  {
+                    "question": "Which statement best describes Hepatitis A infection?",
+                    "options": [
+                      "Chronic disease with integration into host DNA",
+                      "Acute disease transmitted fecal\u2013orally",
+                      "Blood-borne infection with high chronicity",
+                      "DNA virus with envelope proteins PreS1 and PreS2"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Hepatitis A is an RNA virus transmitted via the fecal-oral route and causes acute, self-limiting disease without chronicity."
+                  },
+                  {
+                    "question": "Which serologic marker characterizes acute HAV infection?",
+                    "options": [
+                      "Anti-HAV IgG only",
+                      "Anti-HAV IgM",
+                      "HBsAg",
+                      "Anti-HCV IgG"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Anti-HAV IgM indicates acute infection, whereas IgG indicates past infection or immunity."
+                  },
+                  {
+                    "question": "What happens to HAV antibodies over time?",
+                    "options": [
+                      "IgM persists lifelong",
+                      "IgG disappears after 6 months",
+                      "IgM decreases within 6 months and IgG persists lifelong",
+                      "Both IgM and IgG disappear"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "IgM serves as an acute marker and declines after 3-6 months, while IgG persists lifelong providing immunity."
+                  },
+                  {
+                    "question": "Which population is most likely to be asymptomatic when infected with HAV?",
+                    "options": [
+                      "Elderly patients",
+                      "Patients with cirrhosis",
+                      "Children under 5 years old",
+                      "Immunocompromised adults"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Young children are frequently asymptomatic (<10% develop jaundice), whereas adults typically develop symptoms."
+                  },
+                  {
+                    "question": "Which prevention strategy exists for HAV?",
+                    "options": [
+                      "No available prevention",
+                      "Only antiviral therapy",
+                      "Primary prevention with vaccine and passive immunization",
+                      "Liver transplantation"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "HAV is preventable via active vaccination and passive immunization (Ig) for post-exposure prophylaxis."
+                  }
+                ],
+                "HBV": [
+                  {
+                    "question": "Which type of virus is Hepatitis B?",
+                    "options": [
+                      "RNA virus",
+                      "Retrovirus",
+                      "DNA virus",
+                      "Double-stranded RNA virus"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "HBV is a DNA virus (Hepadnavirus family) that replicates via reverse transcription."
+                  },
+                  {
+                    "question": "Which viral proteins are envelope proteins of HBV?",
+                    "options": [
+                      "Core and NS5A",
+                      "PreS1 and PreS2",
+                      "E1 and E2",
+                      "C and E"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "The HBV envelope contains surface proteins: small (S), middle (PreS2), and large (PreS1)."
+                  },
+                  {
+                    "question": "What is the role of cccDNA in HBV infection?",
+                    "options": [
+                      "Causes direct hepatocyte injury",
+                      "Serves as a template for mRNA transcription",
+                      "Is eliminated by antiviral therapy",
+                      "Exists only in serum"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "cccDNA (covalently closed circular DNA) resides in the nucleus and serves as the stable template for all viral RNA transcription."
+                  },
+                  {
+                    "question": "What primarily causes liver injury in HBV infection?",
+                    "options": [
+                      "Direct viral cytotoxicity",
+                      "Bacterial superinfection",
+                      "Immune-mediated hepatocyte damage",
+                      "Drug toxicity"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "HBV itself is not cytopathic; liver injury results from the host's cytotoxic T-cell immune response attacking infected cells."
+                  },
+                  {
+                    "question": "Which are recognized routes of HBV transmission?",
+                    "options": [
+                      "Fecal\u2013oral only",
+                      "Sexual, parenteral, and vertical",
+                      "Airborne transmission",
+                      "Vector-borne transmission"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "HBV is transmitted through blood/body fluids (parenteral), sexual contact, and from mother to child (vertical)."
+                  },
+                  {
+                    "question": "Which diagnostic tools are used in HBV evaluation?",
+                    "options": [
+                      "Serology only",
+                      "PCR only",
+                      "Serology, PCR for viral DNA, and fibrosis assessment",
+                      "Liver enzymes alone"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Complete evaluation requires serology (HBsAg, HBeAg), viral load (DNA PCR), and liver staging (fibrosis)."
+                  },
+                  {
+                    "question": "Approximately what proportion of chronic HBV patients develop cirrhosis?",
+                    "options": [
+                      "5%",
+                      "10%",
+                      "30%",
+                      "70%"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Without treatment, approximately 15-40% (often cited as ~30%) of chronic HBV carriers will develop cirrhosis or sequelae."
+                  },
+                  {
+                    "question": "Which statement regarding HBV-related HCC is correct?",
+                    "options": [
+                      "HCC occurs only after cirrhosis",
+                      "10% develop HCC without prior cirrhosis",
+                      "HCC never develops in HBV",
+                      "Only treated patients develop HCC"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Unlike HCV, HBV is oncogenic and can cause Hepatocellular Carcinoma (HCC) in non-cirrhotic livers."
+                  },
+                  {
+                    "question": "What is the main goal of HBV treatment?",
+                    "options": [
+                      "Complete eradication of cccDNA",
+                      "Immune suppression",
+                      "Reduction of viral DNA levels",
+                      "Increase ALT levels"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Current therapies aim to suppress viral DNA replication to undetectable levels to prevent progression, as curing cccDNA is rarely achieved."
+                  },
+                  {
+                    "question": "What HBV DNA level is an indication for treatment?",
+                    "options": [
+                      "Above 200 IU/mL",
+                      "Above 500 IU/mL",
+                      "Above 2,000 IU/mL",
+                      "Any detectable level"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Guidelines typically recommend treatment when DNA > 2,000 IU/mL combined with elevated ALT or significant fibrosis."
+                  },
+                  {
+                    "question": "Which treatment acts via immune modulation in HBV?",
+                    "options": [
+                      "Entecavir",
+                      "Tenofovir",
+                      "PEG-Interferon alpha",
+                      "NS5A inhibitors"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "PEG-Interferon alpha acts as an immune modulator, unlike nucleos(t)ide analogs (Entecavir/Tenofovir) which inhibit replication."
+                  },
+                  {
+                    "question": "Which drugs inhibit reverse transcription in HBV?",
+                    "options": [
+                      "Protease inhibitors",
+                      "Nucleos(t)ide analogs",
+                      "NS3 inhibitors",
+                      "Polymerase inhibitors ending in \u201c-buvir\u201d"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Nucleos(t)ide analogs (NAs) inhibit the viral polymerase/reverse transcriptase."
+                  }
+                ],
+                "HCV": [
+                  {
+                    "question": "Which viral genome characterizes HCV?",
+                    "options": [
+                      "dsDNA",
+                      "ssRNA",
+                      "dsRNA",
+                      "DNA with reverse transcription"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Hepatitis C is a single-stranded RNA (ssRNA) virus of the Flaviviridae family."
+                  },
+                  {
+                    "question": "Which HCV proteins are responsible for replication?",
+                    "options": [
+                      "Core protein only",
+                      "E1 and E2",
+                      "NS3, NS4, NS5",
+                      "PreS1 and PreS2"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Non-structural proteins (NS3, NS4, NS5) are essential for viral replication and are the targets of Direct Acting Antivirals (DAAs)."
+                  },
+                  {
+                    "question": "Which statement regarding HCV treatment outcome is correct?",
+                    "options": [
+                      "Cure is defined as lifelong IgG positivity",
+                      "Virus persists despite negative PCR",
+                      "Sustained virologic response is PCR negative after 12 weeks",
+                      "Treatment only suppresses replication without cure"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "SVR (Sustained Virologic Response), defined as undetectable RNA 12 weeks post-treatment, is considered a virological cure."
+                  }
+                ]
+              },
+              "Acute Hepatitis": {
+                "Acute Hepatitis": [
+                  {
+                    "question": "Which of the following is a possible etiology of acute hepatitis?",
+                    "options": [
+                      "Viral infection",
+                      "Alcohol",
+                      "Ischemia",
+                      "All of the above"
+                    ],
+                    "correct_index": 3,
+                    "explanation": "Acute hepatitis can be caused by viruses (A-E), toxins (alcohol/drugs), ischemia (shock liver), and autoimmune flares."
+                  },
+                  {
+                    "question": "Jaundice is clinically apparent when bilirubin exceeds:",
+                    "options": [
+                      "1 mg/dL",
+                      "2.5 mg/dL",
+                      "5 mg/dL",
+                      "10 mg/dL"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Scleral icterus and skin jaundice typically become visible when serum bilirubin levels rise above 2.5-3.0 mg/dL."
+                  },
+                  {
+                    "question": "Acute hepatitis may present with:",
+                    "options": [
+                      "Only local liver pain",
+                      "Only asymptomatic disease",
+                      "Systemic symptoms",
+                      "Isolated renal failure"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Acute hepatitis often presents with systemic prodromal symptoms like fever, fatigue, nausea, and arthralgia before jaundice appears."
+                  }
+                ]
+              },
+              "Autoimmune Hepatitis": {
+                "Autoimmune Hepatitis": [
+                  {
+                    "question": "Autoimmune hepatitis classically affects:",
+                    "options": [
+                      "Elderly men",
+                      "Young children only",
+                      "Women",
+                      "Newborns"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Like many autoimmune diseases, AIH has a strong female predominance."
+                  },
+                  {
+                    "question": "Which antibodies are commonly positive in AIH Type 1?",
+                    "options": [
+                      "Anti-LKM1",
+                      "ANA and/or ASMA",
+                      "Anti-HAV IgM",
+                      "Anti-HBs"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "AIH Type 1 is characterized by positive Antinuclear Antibodies (ANA) and/or Anti-Smooth Muscle Antibodies (ASMA)."
+                  },
+                  {
+                    "question": "Which immunoglobulin level is typically elevated in AIH?",
+                    "options": [
+                      "IgA",
+                      "IgM",
+                      "IgG",
+                      "IgE"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Elevated serum IgG (hypergammaglobulinemia) is a hallmark laboratory finding in Autoimmune Hepatitis."
+                  },
+                  {
+                    "question": "AIH Type 2 is more common in:",
+                    "options": [
+                      "Elderly men",
+                      "Adult women",
+                      "Young women and children",
+                      "Only immunocompromised patients"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "AIH Type 2 is less common and typically affects children and young women."
+                  },
+                  {
+                    "question": "Which antibody characterizes AIH Type 2?",
+                    "options": [
+                      "ANA",
+                      "ASMA",
+                      "Anti-LKM1",
+                      "Anti-mitochondrial antibody"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "AIH Type 2 is defined by the presence of Anti-Liver Kidney Microsome type 1 (Anti-LKM1) antibodies."
+                  },
+                  {
+                    "question": "Which AIH type has a higher likelihood of progression to cirrhosis?",
+                    "options": [
+                      "Type 1",
+                      "Type 2",
+                      "Neither",
+                      "Only untreated cases"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Type 2 AIH generally has a more aggressive course and a higher rate of progression to cirrhosis compared to Type 1."
+                  },
+                  {
+                    "question": "Which statement regarding ANA is correct?",
+                    "options": [
+                      "ANA is specific only for AIH",
+                      "ANA is always present in AIH",
+                      "ANA can appear in many diseases",
+                      "ANA excludes AIH"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "ANA is not specific; it can be seen in SLE, drug-induced liver injury, and even fatty liver disease."
+                  },
+                  {
+                    "question": "Treatment of AIH is considered:",
+                    "options": [
+                      "Optional in asymptomatic patients",
+                      "Life-saving even if asymptomatic",
+                      "Contraindicated in cirrhosis",
+                      "Ineffective"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "Untreated severe AIH has high mortality; treatment is indicated to prevent progression to cirrhosis and failure."
+                  },
+                  {
+                    "question": "Standard pharmacologic treatment for AIH includes:",
+                    "options": [
+                      "Entecavir alone",
+                      "Prednisone and azathioprine",
+                      "Interferon alpha",
+                      "Direct-acting antivirals"
+                    ],
+                    "correct_index": 1,
+                    "explanation": "First-line induction typically involves Prednisone (corticosteroids) often combined with Azathioprine for maintenance."
+                  },
+                  {
+                    "question": "Why is azathioprine sometimes added after starting prednisone?",
+                    "options": [
+                      "It immediately lowers liver enzymes",
+                      "It cannot raise liver enzymes",
+                      "It may initially increase liver enzymes if given alone",
+                      "It replaces steroids completely"
+                    ],
+                    "correct_index": 2,
+                    "explanation": "Azathioprine can be hepatotoxic initially; ensuring enzymes are trending down with steroids first is a common safety strategy."
+                  }
+                ]
+              }
+            }
+          }, 
+
+          "Metabolic Diseases": {
+  "description": "Wilson, Hemochromatosis, Metabolic (MASLD), Alcoholic, and Drug-Induced Liver Diseases",
+  "content": {
+    "Genetic Diseases": {
+      "Wilson Disease": [
+        {
+          "question": "Wilson disease is inherited as which genetic pattern?",
+          "options": [
+            "Autosomal dominant",
+            "X-linked recessive",
+            "Autosomal recessive",
+            "Mitochondrial"
+          ],
+          "correct_index": 2,
+          "explanation": "Wilson disease is an autosomal recessive disorder caused by mutations in the ATP7B gene."
+        },
+        {
+          "question": "Which gene mutation is associated with Wilson disease?",
+          "options": [
+            "HFE",
+            "ATP7B",
+            "CFTR",
+            "TP53"
+          ],
+          "correct_index": 1,
+          "explanation": "The ATP7B gene encodes a copper-transporting ATPase essential for copper excretion into bile."
+        },
+        {
+          "question": "The primary biochemical defect in Wilson disease involves impaired:",
+          "options": [
+            "Iron transport",
+            "Ceruloplasmin-mediated copper handling",
+            "Albumin synthesis",
+            "Bile acid production"
+          ],
+          "correct_index": 1,
+          "explanation": "The defect leads to impaired incorporation of copper into ceruloplasmin and impaired biliary copper excretion."
+        },
+        {
+          "question": "Which organ involvement is characteristic of Wilson disease?",
+          "options": [
+            "Lung fibrosis",
+            "Basal ganglia involvement with Parkinsonian features",
+            "Myocardial hypertrophy",
+            "Renal tubular acidosis"
+          ],
+          "correct_index": 1,
+          "explanation": "Neuropsychiatric manifestations are due to copper deposition in the basal ganglia (lenticular degeneration)."
+        },
+        {
+          "question": "Hemolysis in Wilson disease is best described as:",
+          "options": [
+            "Immune-mediated",
+            "Mechanical",
+            "Non-immune due to copper toxicity",
+            "Microangiopathic"
+          ],
+          "correct_index": 2,
+          "explanation": "Release of free copper into the blood causes direct oxidative damage to RBC membranes (Coombs negative hemolysis)."
+        },
+        {
+          "question": "Which statement about Kayser–Fleischer rings is correct?",
+          "options": [
+            "They are pathognomonic for Wilson disease",
+            "They appear only in hepatic disease",
+            "They are not pathognomonic",
+            "They are required for diagnosis"
+          ],
+          "correct_index": 2,
+          "explanation": "While highly characteristic, they can appear in other cholestatic diseases and are absent in some Wilson patients."
+        },
+        {
+          "question": "Typical liver enzyme pattern in Wilson disease is:",
+          "options": [
+            "ALT > AST",
+            "AST > ALT",
+            "Normal enzymes",
+            "ALP predominance"
+          ],
+          "correct_index": 1,
+          "explanation": "Unlike most other hepatitides, Wilson disease typically presents with AST > ALT and often low Alkaline Phosphatase."
+        },
+        {
+          "question": "Diagnosis of Wilson disease is based on:",
+          "options": [
+            "Single laboratory value",
+            "Liver biopsy only",
+            "A scoring system including multiple findings",
+            "Imaging only"
+          ],
+          "correct_index": 2,
+          "explanation": "The Leipzig scoring system integrates clinical, biochemical, histological, and genetic data for diagnosis."
+        }
+      ],
+      "Hemochromatosis": [
+        {
+          "question": "Hemochromatosis is inherited as:",
+          "options": [
+            "Autosomal recessive",
+            "Autosomal dominant",
+            "X-linked dominant",
+            "Sporadic"
+          ],
+          "correct_index": 1,
+          "explanation": "Hereditary hemochromatosis is classically Autosomal Recessive (though some rare forms vary)."
+        },
+        {
+          "question": "The most common mutation associated with hemochromatosis is:",
+          "options": [
+            "ATP7B",
+            "C282Y",
+            "H63D",
+            "BRCA1"
+          ],
+          "correct_index": 1,
+          "explanation": "The C282Y mutation in the HFE gene is the most common cause of hereditary hemochromatosis."
+        },
+        {
+          "question": "Which protein exports iron from storage into the bloodstream?",
+          "options": [
+            "Transferrin",
+            "Ferritin",
+            "Ferroportin",
+            "Hepcidin"
+          ],
+          "correct_index": 2,
+          "explanation": "Ferroportin is the only known cellular iron exporter."
+        },
+        {
+          "question": "Hepcidin functions to:",
+          "options": [
+            "Increase iron absorption",
+            "Inhibit ferroportin",
+            "Bind iron in plasma",
+            "Store iron in cells"
+          ],
+          "correct_index": 1,
+          "explanation": "Hepcidin binds to ferroportin causing its degradation, thereby blocking iron absorption and release."
+        },
+        {
+          "question": "A transferrin saturation above which value supports the diagnosis of hemochromatosis?",
+          "options": [
+            "25%",
+            "35%",
+            "45%",
+            "60%"
+          ],
+          "correct_index": 2,
+          "explanation": "Transferrin saturation >45% is the earliest and most sensitive phenotypic marker of iron overload."
+        },
+        {
+          "question": "Which clinical feature is commonly seen in hemochromatosis?",
+          "options": [
+            "Hyperthyroidism",
+            "Diabetes mellitus",
+            "Asthma",
+            "Ulcerative colitis"
+          ],
+          "correct_index": 1,
+          "explanation": "Iron deposition in the pancreas can lead to 'Bronze Diabetes'."
+        },
+        {
+          "question": "First-line treatment for hemochromatosis is:",
+          "options": [
+            "Iron chelation therapy",
+            "Liver transplantation",
+            "Weekly phlebotomy",
+            "Corticosteroids"
+          ],
+          "correct_index": 2,
+          "explanation": "Therapeutic phlebotomy is the standard treatment to deplete iron stores."
+        }
+      ]
+    },
+    "Metabolic Liver Diseases": {
+      "Fatty Liver Disease (MASLD / MASH)": [
+        {
+          "question": "MASLD refers to:",
+          "options": [
+            "Alcohol-related fatty liver disease",
+            "Fat accumulation in the liver",
+            "Liver inflammation without fat",
+            "Viral hepatitis"
+          ],
+          "correct_index": 1,
+          "explanation": "Metabolic dysfunction-Associated Steatotic Liver Disease (MASLD) involves hepatic steatosis."
+        },
+        {
+          "question": "MASH is defined by the presence of:",
+          "options": [
+            "Fat only",
+            "Fat and inflammation",
+            "Fibrosis only",
+            "Cirrhosis"
+          ],
+          "correct_index": 1,
+          "explanation": "Metabolic dysfunction-Associated Steatohepatitis (MASH) requires the presence of both steatosis and lobular inflammation/ballooning."
+        },
+        {
+          "question": "Which is a major risk factor for MASLD?",
+          "options": [
+            "Smoking",
+            "Diabetes mellitus",
+            "Viral infection",
+            "Autoimmunity"
+          ],
+          "correct_index": 1,
+          "explanation": "Type 2 Diabetes, obesity, and metabolic syndrome are the primary drivers of MASLD."
+        },
+        {
+          "question": "The leading cause of death in patients with fatty liver disease is:",
+          "options": [
+            "Liver failure",
+            "Hepatocellular carcinoma",
+            "Cardiovascular disease",
+            "Infection"
+          ],
+          "correct_index": 2,
+          "explanation": "Patients with MASLD are at highest risk of mortality from cardiovascular events."
+        },
+        {
+          "question": "The most important prognostic factor in MASLD is:",
+          "options": [
+            "Degree of steatosis",
+            "Level of ALT",
+            "Fibrosis stage",
+            "Body mass index"
+          ],
+          "correct_index": 2,
+          "explanation": "Fibrosis stage is the strongest predictor of liver-related complications and mortality."
+        },
+        {
+          "question": "A weight loss of approximately how much improves fibrosis?",
+          "options": [
+            "5%",
+            "7%",
+            "10%",
+            "15%"
+          ],
+          "correct_index": 2,
+          "explanation": "While >5-7% reduces steatosis/inflammation, >10% weight loss is typically needed to regress fibrosis."
+        },
+        {
+          "question": "Which imaging modality is described as excellent for diagnosis?",
+          "options": [
+            "CT",
+            "Ultrasound",
+            "PET",
+            "ERCP"
+          ],
+          "correct_index": 1,
+          "explanation": "Ultrasound is the first-line imaging modality for detecting fatty liver."
+        }
+      ]
+    },
+    "Alcoholic Liver Disease": {
+      "Alcoholic Liver Disease": [
+        {
+          "question": "The most common pathological finding in alcoholic liver disease is:",
+          "options": [
+            "Cirrhosis",
+            "Hepatitis",
+            "Simple steatosis",
+            "Fibrosis"
+          ],
+          "correct_index": 2,
+          "explanation": "Simple steatosis (fatty liver) develops in >90% of heavy drinkers."
+        },
+        {
+          "question": "A hallmark laboratory finding in alcoholic liver disease is:",
+          "options": [
+            "ALT > AST",
+            "AST > ALT (\u22482:1)",
+            "ALP > GGT",
+            "Normal enzymes"
+          ],
+          "correct_index": 1,
+          "explanation": "An AST:ALT ratio > 2:1 is highly suggestive of alcoholic liver disease."
+        },
+        {
+          "question": "AST levels in alcoholic liver disease usually:",
+          "options": [
+            "Exceed 1000",
+            "Are never above 350",
+            "Are lower than ALT",
+            "Are normal"
+          ],
+          "correct_index": 1,
+          "explanation": "AST rarely exceeds 300-500 IU/L in alcoholic hepatitis; higher levels suggest another etiology."
+        },
+        {
+          "question": "Which immunoglobulin is typically elevated?",
+          "options": [
+            "IgG",
+            "IgM",
+            "IgE",
+            "IgA"
+          ],
+          "correct_index": 3,
+          "explanation": "Elevated IgA is commonly associated with alcoholic liver disease."
+        },
+        {
+          "question": "Maddrey\u2019s score is used to assess:",
+          "options": [
+            "Diagnosis",
+            "Fibrosis stage",
+            "Mortality risk",
+            "Viral load"
+          ],
+          "correct_index": 2,
+          "explanation": "Maddrey's Discriminant Function (DF) assesses severity and mortality risk to guide steroid therapy."
+        },
+        {
+          "question": "First-line management in alcoholic liver disease includes:",
+          "options": [
+            "Antivirals",
+            "Alcohol abstinence",
+            "Chemotherapy",
+            "Iron chelation"
+          ],
+          "correct_index": 1,
+          "explanation": "Total abstinence from alcohol is the cornerstone of treatment."
+        }
+      ]
+    },
+    "DILI": {
+      "Drug Induced Liver Injury": [
+        {
+          "question": "DILI presents with a clinical spectrum ranging from:",
+          "options": [
+            "Mild cholestasis to cirrhosis only",
+            "Asymptomatic to acute liver failure",
+            "Fibrosis to HCC",
+            "Hepatitis only"
+          ],
+          "correct_index": 1,
+          "explanation": "DILI can mimic almost any liver disease, from asymptomatic enzyme elevations to fulminant failure."
+        },
+        {
+          "question": "The most common drug group causing DILI is:",
+          "options": [
+            "Antidepressants",
+            "Antibiotics",
+            "Antivirals",
+            "Antipsychotics"
+          ],
+          "correct_index": 1,
+          "explanation": "Antibiotics (e.g., Amoxicillin-Clavulanate) are the most frequent cause of idiosyncratic DILI."
+        },
+        {
+          "question": "Augmentin-related DILI typically presents with which pattern?",
+          "options": [
+            "Hepatocellular",
+            "Mixed",
+            "Cholestatic",
+            "Ischemic"
+          ],
+          "correct_index": 2,
+          "explanation": "Amoxicillin-Clavulanate typically causes a cholestatic or mixed pattern of injury."
+        },
+        {
+          "question": "Which mechanism of DILI is dose-dependent and immediate?",
+          "options": [
+            "Idiosyncratic reaction",
+            "Metabolic injury",
+            "Direct toxicity",
+            "Indirect mechanism"
+          ],
+          "correct_index": 2,
+          "explanation": "Direct hepatotoxicity (e.g., Acetaminophen) is predictable, dose-dependent, and has a short latency."
+        },
+        {
+          "question": "Hy\u2019s Law indicates severe DILI when AST/ALT rise \u22653\u00d7 together with bilirubin rise \u2265:",
+          "options": [
+            "1.5\u00d7",
+            "2\u00d7",
+            "2.5\u00d7",
+            "3\u00d7"
+          ],
+          "correct_index": 2,
+          "explanation": "Hy's Law (indicating high mortality risk) is defined by ALT \u22653x ULN and Total Bilirubin \u22652x ULN (Note: key indicated 2.5x option)."
+        },
+        {
+          "question": "RUCAM score is used to:",
+          "options": [
+            "Grade fibrosis",
+            "Predict survival",
+            "Assess causality of DILI",
+            "Select treatment"
+          ],
+          "correct_index": 2,
+          "explanation": "The RUCAM scale is the standard tool for assessing the likelihood (causality) that a drug caused liver injury."
+        },
+        {
+          "question": "Which drug is commonly associated with drug-induced autoimmune hepatitis?",
+          "options": [
+            "Amoxicillin",
+            "Paracetamol",
+            "Nitrofurantoin (Macrodantin)",
+            "Ibuprofen"
+          ],
+          "correct_index": 2,
+          "explanation": "Nitrofurantoin and Minocycline are classic causes of drug-induced autoimmune-like hepatitis."
+        }
+      ]
+    }
+  }
+}, 
+"Cholestatic Diseases": {
+  "description": "General Cholestasis, PBC (Primary Biliary Cirrhosis), and PSC (Primary Sclerosing Cholangitis)",
+  "content": {
+    "General": {
+      "General": [
+        {
+          "question": "Which description best defines cholestasis?",
+          "options": [
+            "Impaired production or flow of bile",
+            "Acute inflammation of hepatocytes",
+            "Viral destruction of bile ducts",
+            "Immune-mediated fibrosis"
+          ],
+          "correct_index": 0,
+          "explanation": "Cholestasis is functionally defined as a decrease in bile flow due to impaired secretion by hepatocytes or obstruction of bile flow through intra- or extrahepatic bile ducts."
+        },
+        {
+          "question": "A common clinical manifestation of cholestasis is:",
+          "options": [
+            "Hematuria",
+            "Pruritus",
+            "Dyspnea",
+            "Polyphagia"
+          ],
+          "correct_index": 1,
+          "explanation": "Pruritus (itching) is a hallmark symptom of cholestasis, likely due to the accumulation of bile acids or other substances in the skin."
+        },
+        {
+          "question": "In advanced cholestasis, patients may develop:",
+          "options": [
+            "Cyanosis",
+            "Ascites without jaundice",
+            "Jaundice",
+            "Hematemesis"
+          ],
+          "correct_index": 2,
+          "explanation": "Jaundice becomes apparent when serum bilirubin levels rise significantly due to the inability to excrete bile."
+        },
+        {
+          "question": "Which laboratory pattern is characteristic of cholestasis?",
+          "options": [
+            "Elevated AST and ALT",
+            "Decreased albumin",
+            "Elevated ALP and GGT",
+            "Prolonged PT only"
+          ],
+          "correct_index": 2,
+          "explanation": "A disproportionate elevation of Alkaline Phosphatase (ALP) and Gamma-Glutamyl Transferase (GGT) compared to aminotransferases characterizes cholestatic injury."
+        },
+        {
+          "question": "Extrahepatic cholestasis is best described as:",
+          "options": [
+            "Autoimmune bile duct destruction",
+            "Mechanical obstruction outside the liver",
+            "Drug-induced hepatocyte injury",
+            "Viral inflammation"
+          ],
+          "correct_index": 1,
+          "explanation": "Extrahepatic cholestasis involves mechanical obstruction of large bile ducts outside the liver (e.g., stones, tumors)."
+        },
+        {
+          "question": "Which diagnosis belongs to intrahepatic cholestasis?",
+          "options": [
+            "Pancreatic carcinoma",
+            "Gallstone obstruction",
+            "Primary biliary cirrhosis",
+            "Ampullary tumor"
+          ],
+          "correct_index": 2,
+          "explanation": "Primary Biliary Cirrhosis (PBC) affects the small intrahepatic bile ducts, causing intrahepatic cholestasis."
+        },
+        {
+          "question": "Which option includes only causes of intrahepatic cholestasis?",
+          "options": [
+            "PBC, PSC, pregnancy",
+            "Gallstones, tumors",
+            "Pancreatic cancer, drugs",
+            "Extrahepatic obstruction only"
+          ],
+          "correct_index": 0,
+          "explanation": "PBC, PSC, and intrahepatic cholestasis of pregnancy are all classic causes of intrahepatic cholestasis."
+        }
+      ]
+    },
+    "PBC (Primary Biliary Cirrhosis)": {
+      "PBC": [
+        {
+          "question": "Primary biliary cirrhosis primarily affects which structures?",
+          "options": [
+            "Large extrahepatic bile ducts",
+            "Hepatic arteries",
+            "Small intrahepatic bile ducts",
+            "Portal veins"
+          ],
+          "correct_index": 2,
+          "explanation": "PBC is an autoimmune disease characterized by the destruction of small, interlobular bile ducts."
+        },
+        {
+          "question": "Untreated PBC may eventually progress to:",
+          "options": [
+            "Acute hepatitis only",
+            "Chronic cholestasis and cirrhosis",
+            "Rapid viral clearance",
+            "Complete recovery"
+          ],
+          "correct_index": 1,
+          "explanation": "Chronic destruction of bile ducts leads to cholestasis, fibrosis, and ultimately cirrhosis and liver failure."
+        },
+        {
+          "question": "The underlying mechanism of PBC is thought to be:",
+          "options": [
+            "Toxic",
+            "Infectious",
+            "Autoimmune",
+            "Ischemic"
+          ],
+          "correct_index": 2,
+          "explanation": "PBC is a classic autoimmune liver disease involving T-cell mediated attack on bile duct epithelial cells."
+        },
+        {
+          "question": "Which antibody is detected in about 95% of patients with PBC?",
+          "options": [
+            "p-ANCA",
+            "ANA",
+            "AMA",
+            "Anti-LKM"
+          ],
+          "correct_index": 2,
+          "explanation": "Anti-Mitochondrial Antibodies (AMA) are highly specific and sensitive (95%) for PBC."
+        },
+        {
+          "question": "A typical laboratory finding in PBC is:",
+          "options": [
+            "Decreased ALP",
+            "Isolated ALT elevation",
+            "Elevated ALP and GGT",
+            "Low bilirubin"
+          ],
+          "correct_index": 2,
+          "explanation": "As a cholestatic disease, PBC presents with elevated ALP and GGT."
+        },
+        {
+          "question": "Diagnosis of PBC requires:",
+          "options": [
+            "Liver biopsy in all cases",
+            "Two out of three diagnostic criteria",
+            "Positive AMA only",
+            "Imaging findings alone"
+          ],
+          "correct_index": 1,
+          "explanation": "Diagnosis requires 2 of 3: Biochemical cholestasis (elevated ALP), Positive AMA, or Histologic evidence."
+        },
+        {
+          "question": "Which of the following is a diagnostic criterion for PBC?",
+          "options": [
+            "Chronic cholestatic pattern",
+            "Portal hypertension",
+            "Viral serology",
+            "Acute hepatitis"
+          ],
+          "correct_index": 0,
+          "explanation": "Evidence of chronic cholestasis (elevated ALP for >6 months) is one of the three key criteria."
+        },
+        {
+          "question": "PBC is epidemiologically more common in:",
+          "options": [
+            "Men",
+            "Children",
+            "Women",
+            "Equal distribution"
+          ],
+          "correct_index": 2,
+          "explanation": "PBC overwhelmingly affects women (female-to-male ratio approx 9:1), typically in middle age."
+        },
+        {
+          "question": "First-line treatment for PBC is:",
+          "options": [
+            "Corticosteroids",
+            "Ursodeoxycholic acid (UDCA)",
+            "Azathioprine",
+            "Methotrexate"
+          ],
+          "correct_index": 1,
+          "explanation": "UDCA is the standard first-line therapy, slowing disease progression and improving survival."
+        },
+        {
+          "question": "UDCA improves PBC mainly by:",
+          "options": [
+            "Suppressing immune cells",
+            "Acting as a bile salt with hepatoprotective effects",
+            "Eliminating bile ducts inflammation",
+            "Reducing autoantibody production"
+          ],
+          "correct_index": 1,
+          "explanation": "UDCA is a hydrophilic bile acid that displaces toxic hydrophobic bile acids and protects cholangiocytes."
+        },
+        {
+          "question": "Which medication may be added in patients not responding to UDCA?",
+          "options": [
+            "Tenofovir",
+            "Obeticholic acid",
+            "Interferon alpha",
+            "Ribavirin"
+          ],
+          "correct_index": 1,
+          "explanation": "Obeticholic acid is approved as second-line therapy for patients with an inadequate response to UDCA."
+        },
+        {
+          "question": "Obeticholic acid exerts its effect via activation of:",
+          "options": [
+            "FXR nuclear receptor",
+            "Estrogen receptor",
+            "Vitamin D receptor",
+            "PPAR-\u03b3"
+          ],
+          "correct_index": 0,
+          "explanation": "Obeticholic acid is a potent agonist of the Farnesoid X Receptor (FXR), which regulates bile acid synthesis and transport."
+        },
+        {
+          "question": "Which drug class may have an additional anti-cholestatic effect in PBC?",
+          "options": [
+            "NSAIDs",
+            "Beta blockers",
+            "Fibrates",
+            "Statins"
+          ],
+          "correct_index": 2,
+          "explanation": "Fibrates (PPAR agonists) are often used off-label as add-on therapy to improve biochemical markers in PBC."
+        }
+      ]
+    },
+    "PSC (Primary Sclerosing Cholangitis)": {
+      "PSC": [
+        {
+          "question": "PSC involves inflammation of:",
+          "options": [
+            "Only intrahepatic bile ducts",
+            "Only extrahepatic bile ducts",
+            "Both intra- and extrahepatic bile ducts",
+            "Hepatic veins"
+          ],
+          "correct_index": 2,
+          "explanation": "PSC is characterized by inflammation and fibrosis of both the intrahepatic and extrahepatic biliary tree."
+        },
+        {
+          "question": "PSC is strongly associated with:",
+          "options": [
+            "Celiac disease",
+            "Systemic lupus erythematosus",
+            "Inflammatory bowel disease",
+            "Rheumatoid arthritis"
+          ],
+          "correct_index": 2,
+          "explanation": "There is a very strong association between PSC and IBD, particularly Ulcerative Colitis."
+        },
+        {
+          "question": "Approximately what proportion of PSC patients have IBD?",
+          "options": [
+            "30%",
+            "50%",
+            "70%",
+            "90%"
+          ],
+          "correct_index": 3,
+          "explanation": "The prevalence of IBD in patients with PSC is very high, often cited between 70-90%."
+        },
+        {
+          "question": "PSC is most commonly diagnosed in:",
+          "options": [
+            "Elderly women",
+            "Young men",
+            "Children",
+            "Elderly men"
+          ],
+          "correct_index": 1,
+          "explanation": "PSC typically affects men (2:1 ratio over women) with a mean age of diagnosis around 40 years."
+        },
+        {
+          "question": "The clinical course of PSC is typically:",
+          "options": [
+            "Constant and asymptomatic",
+            "Episodic with flares",
+            "Self-limited",
+            "Acute only"
+          ],
+          "correct_index": 1,
+          "explanation": "The course is progressive but often episodic, with flares of cholangitis (fever, pain, jaundice)."
+        },
+        {
+          "question": "A PSC flare commonly includes abdominal pain, pruritus, and:",
+          "options": [
+            "Weight loss",
+            "Diarrhea",
+            "Fever",
+            "Hematemesis"
+          ],
+          "correct_index": 2,
+          "explanation": "Fever is a sign of acute bacterial cholangitis, a common complication due to strictures and stasis."
+        },
+        {
+          "question": "A major complication of PSC is:",
+          "options": [
+            "Hepatocellular carcinoma",
+            "Cholangiocarcinoma",
+            "Pancreatic cancer",
+            "Gastric cancer"
+          ],
+          "correct_index": 1,
+          "explanation": "Patients with PSC have a significantly increased risk (10-15% lifetime risk) of developing cholangiocarcinoma."
+        },
+        {
+          "question": "PSC is associated with increased risk of which malignancy?",
+          "options": [
+            "Gastric cancer",
+            "Colon cancer",
+            "Lung cancer",
+            "Prostate cancer"
+          ],
+          "correct_index": 1,
+          "explanation": "Due to the association with IBD (Colitis), patients are at high risk for colorectal cancer."
+        },
+        {
+          "question": "Which laboratory marker may appear in PSC but is not specific?",
+          "options": [
+            "AMA",
+            "Anti-LKM",
+            "p-ANCA",
+            "Anti-dsDNA"
+          ],
+          "correct_index": 2,
+          "explanation": "Perinuclear anti-neutrophil cytoplasmic antibodies (p-ANCA) are found in 60-80% of PSC patients but are not specific."
+        },
+        {
+          "question": "The diagnostic imaging modality of choice for PSC is:",
+          "options": [
+            "Ultrasound",
+            "CT scan",
+            "ERCP",
+            "MRCP"
+          ],
+          "correct_index": 3,
+          "explanation": "Magnetic Resonance Cholangiopancreatography (MRCP) is the preferred non-invasive imaging to visualize the characteristic 'beaded' biliary tree."
+        }
+      ]
+    }
+  }
+}, 
+
+"Cancer": {
+  "description": "Benign (Cysts, Hemangioma, FNH, Adenoma) and Malignant (HCC) Liver Tumors",
+  "content": {
+    "Benign Liver Tumors": {
+      "Cysts": [
+        {
+          "question": "Which liver cyst usually requires no intervention if asymptomatic?",
+          "options": [
+            "Simple cyst",
+            "Echinococcal cyst",
+            "Polycystic liver disease",
+            "Neoplastic cyst"
+          ],
+          "correct_index": 0,
+          "explanation": "Simple hepatic cysts are benign, common, and require no treatment unless they cause symptoms or complications."
+        },
+        {
+          "question": "Polycystic liver disease most often occurs in association with:",
+          "options": [
+            "Chronic hepatitis",
+            "Alcoholic liver disease",
+            "Polycystic kidney disease",
+            "Cirrhosis"
+          ],
+          "correct_index": 2,
+          "explanation": "Polycystic liver disease (PCLD) is genetically and clinically associated with Autosomal Dominant Polycystic Kidney Disease (ADPKD)."
+        },
+        {
+          "question": "Which imaging finding suggests an echinococcal cyst rather than a simple cyst?",
+          "options": [
+            "Anechoic appearance",
+            "Thin wall only",
+            "Septations and calcifications",
+            "No internal structure"
+          ],
+          "correct_index": 2,
+          "explanation": "Hydatid cysts (Echinococcus) typically show internal septations ('daughter cysts'), wall calcifications, or floating membranes."
+        }
+      ],
+      "Hemangioma": [
+        {
+          "question": "A liver hemangioma is composed mainly of:",
+          "options": [
+            "Fat cells",
+            "Fibrous tissue",
+            "Vascular spaces with septa",
+            "Malignant hepatocytes"
+          ],
+          "correct_index": 2,
+          "explanation": "Cavernous hemangiomas consist of endothelium-lined vascular spaces separated by fibrous septa."
+        },
+        {
+          "question": "Liver hemangiomas are most commonly seen in:",
+          "options": [
+            "Women",
+            "Elderly men",
+            "Children",
+            "Patients with cirrhosis"
+          ],
+          "correct_index": 0,
+          "explanation": "Hemangiomas are the most common benign liver tumor and are significantly more common in women."
+        },
+        {
+          "question": "Which imaging modality can demonstrate a liver hemangioma?",
+          "options": [
+            "Ultrasound only",
+            "CT only",
+            "MRI only",
+            "Ultrasound, CT, and MRI"
+          ],
+          "correct_index": 3,
+          "explanation": "Hemangiomas have characteristic findings on all three modalities (e.g., hyperechoic on US, peripheral globular enhancement on CT/MRI)."
+        },
+        {
+          "question": "Standard management of a typical liver hemangioma is:",
+          "options": [
+            "Surgical resection",
+            "No biopsy and no treatment",
+            "Chemotherapy",
+            "Radiation therapy"
+          ],
+          "correct_index": 1,
+          "explanation": "Typical hemangiomas are benign and stable; no intervention or biopsy is needed unless there is diagnostic doubt or symptoms."
+        }
+      ],
+      "Focal Nodular Hyperplasia (FNH)": [
+        {
+          "question": "FNH is most commonly diagnosed in:",
+          "options": [
+            "Elderly women",
+            "Young women",
+            "Young men",
+            "Children"
+          ],
+          "correct_index": 1,
+          "explanation": "FNH is the second most common benign liver tumor, predominantly affecting young women."
+        },
+        {
+          "question": "FNH is usually discovered:",
+          "options": [
+            "After liver failure",
+            "Due to abdominal pain",
+            "As an incidental finding",
+            "After rupture"
+          ],
+          "correct_index": 2,
+          "explanation": "Most FNH lesions are asymptomatic and discovered incidentally during imaging for other reasons."
+        },
+        {
+          "question": "Which histologic feature characterizes FNH?",
+          "options": [
+            "Monoclonal hepatocytes",
+            "Absence of bile ducts",
+            "Polyclonal hepatocytes with functioning bile ducts",
+            "Malignant transformation"
+          ],
+          "correct_index": 2,
+          "explanation": "FNH is a hyperplastic response to abnormal blood flow, consisting of normal (polyclonal) hepatocytes and bile ducts."
+        },
+        {
+          "question": "A classic imaging feature of FNH is:",
+          "options": [
+            "Peripheral calcifications",
+            "Capsule formation",
+            "Central scar",
+            "Diffuse fat"
+          ],
+          "correct_index": 2,
+          "explanation": "A central stellate scar containing a feeding artery is the hallmark radiologic sign of FNH."
+        },
+        {
+          "question": "Which imaging modalities are useful for diagnosing FNH?",
+          "options": [
+            "CT and MRI",
+            "Ultrasound only",
+            "PET scan",
+            "Angiography only"
+          ],
+          "correct_index": 0,
+          "explanation": "Multiphase CT and MRI (especially with hepatobiliary contrast) are the gold standards for diagnosing FNH."
+        },
+        {
+          "question": "Appropriate management of FNH includes:",
+          "options": [
+            "Routine biopsy",
+            "Surgical excision",
+            "Liver transplantation",
+            "Reassurance without treatment"
+          ],
+          "correct_index": 3,
+          "explanation": "Since FNH has no malignant potential and rarely bleeds, reassurance is the standard of care."
+        },
+        {
+          "question": "Women with FNH should be advised that:",
+          "options": [
+            "Pregnancy is contraindicated",
+            "Oral contraceptives must be stopped",
+            "Estrogen may influence the lesion but no intervention is needed",
+            "Immediate surgery is required"
+          ],
+          "correct_index": 2,
+          "explanation": "While FNH may be estrogen-sensitive, pregnancy and OCPs are generally not contraindicated for stable lesions."
+        }
+      ],
+      "Hepatocellular Adenoma (HCA)": [
+        {
+          "question": "HCA typically occurs in:",
+          "options": [
+            "Elderly men",
+            "Young women",
+            "Children",
+            "Patients with cirrhosis"
+          ],
+          "correct_index": 1,
+          "explanation": "Hepatocellular Adenoma is strongly associated with young women of childbearing age."
+        },
+        {
+          "question": "Which factor increases the risk of HCA?",
+          "options": [
+            "Alcohol use",
+            "Viral hepatitis",
+            "Oral contraceptive use",
+            "Autoimmune disease"
+          ],
+          "correct_index": 2,
+          "explanation": "The use of estrogen-containing oral contraceptives is a major risk factor for developing HCA."
+        },
+        {
+          "question": "Compared with other benign liver lesions, HCA is macroscopically:",
+          "options": [
+            "Homogeneous",
+            "Cystic",
+            "Very heterogeneous",
+            "Calcified"
+          ],
+          "correct_index": 2,
+          "explanation": "HCAs are often heterogeneous due to internal hemorrhage, fat, or necrosis."
+        },
+        {
+          "question": "Microscopically, hepatocytes in HCA are:",
+          "options": [
+            "Polyclonal",
+            "Dysplastic bile cells",
+            "Monoclonal",
+            "Necrotic"
+          ],
+          "correct_index": 2,
+          "explanation": "Unlike FNH (polyclonal), Adenomas are monoclonal proliferations of hepatocytes."
+        },
+        {
+          "question": "The most accurate imaging modality for HCA diagnosis is:",
+          "options": [
+            "Ultrasound",
+            "CT without contrast",
+            "MRI with liver-specific contrast",
+            "Plain CT"
+          ],
+          "correct_index": 2,
+          "explanation": "MRI with hepatobiliary contrast (e.g., Primovist) is best for differentiating HCA subtypes and excluding FNH."
+        },
+        {
+          "question": "After diagnosis of HCA in a man, the next step is:",
+          "options": [
+            "Observation only",
+            "MRI follow-up after 6 months",
+            "Immediate referral for surgery",
+            "Chemotherapy"
+          ],
+          "correct_index": 2,
+          "explanation": "In men, HCA has a much higher risk of malignant transformation to HCC; surgical resection is standard."
+        },
+        {
+          "question": "After diagnosis of HCA in a woman, recommended management is:",
+          "options": [
+            "No follow-up",
+            "Immediate surgery",
+            "MRI follow-up after 6 months",
+            "Liver transplantation"
+          ],
+          "correct_index": 2,
+          "explanation": "In women, management starts with stopping OCPs/hormones and follow-up imaging (usually MRI in 6 months) to check for regression."
+        }
+      ]
+    },
+    "Malignant Liver Tumors": {
+      "Hepatocellular Carcinoma (HCC)": [
+        {
+          "question": "HCC typically receives its blood supply mainly from the:",
+          "options": [
+            "Portal vein",
+            "Hepatic artery",
+            "Hepatic vein",
+            "Inferior vena cava"
+          ],
+          "correct_index": 1,
+          "explanation": "Unlike normal liver parenchyma (portal vein dominant), HCC recruits neovascularization from the Hepatic Artery."
+        },
+        {
+          "question": "On CT angiography, HCC characteristically shows enhancement during the:",
+          "options": [
+            "Portal venous phase",
+            "Delayed phase",
+            "Arterial phase",
+            "Non-contrast phase"
+          ],
+          "correct_index": 2,
+          "explanation": "Arterial phase hyperenhancement ('wash-in') followed by venous phase washout is the classic HCC pattern."
+        },
+        {
+          "question": "HCC is most often diagnosed:",
+          "options": [
+            "Early due to symptoms",
+            "Incidentally in healthy individuals",
+            "Late in patients not under surveillance",
+            "Only after screening programs"
+          ],
+          "correct_index": 2,
+          "explanation": "HCC is often asymptomatic until advanced; surveillance in high-risk groups (cirrhosis) aims to detect it early."
+        },
+        {
+          "question": "Which sequence best describes the usual progression to HCC?",
+          "options": [
+            "Acute hepatitis \u2192 recovery \u2192 HCC",
+            "Chronic liver disease \u2192 fibrosis \u2192 cirrhosis \u2192 HCC",
+            "Steatosis \u2192 recovery \u2192 HCC",
+            "Cirrhosis \u2192 recovery \u2192 HCC"
+          ],
+          "correct_index": 1,
+          "explanation": "The classic carcinogenic pathway involves chronic injury leading to fibrosis, cirrhosis, and finally malignancy."
+        },
+        {
+          "question": "Which statement regarding cirrhosis and HCC risk is correct?",
+          "options": [
+            "Only viral cirrhosis increases risk",
+            "Alcoholic cirrhosis does not increase risk",
+            "Any cause of cirrhosis increases HCC risk",
+            "Cirrhosis protects against malignancy"
+          ],
+          "correct_index": 2,
+          "explanation": "Cirrhosis from any etiology (viral, alcohol, metabolic) is the primary risk factor for developing HCC."
+        },
+        {
+          "question": "Which molecular pathway is characteristically involved in HCC?",
+          "options": [
+            "Hedgehog",
+            "Notch",
+            "Wnt / \u03b2-catenin",
+            "JAK-STAT"
+          ],
+          "correct_index": 2,
+          "explanation": "Mutations activating the Wnt/\u03b2-catenin pathway are very common drivers in hepatocarcinogenesis."
+        },
+        {
+          "question": "Radiologic diagnosis of HCC commonly relies on:",
+          "options": [
+            "AFP level alone",
+            "Ultrasound only",
+            "LI-RADS scoring on CT",
+            "PET scan"
+          ],
+          "correct_index": 2,
+          "explanation": "The LI-RADS classification system on CT/MRI is used to diagnose HCC non-invasively with high specificity."
+        },
+        {
+          "question": "Why is biopsy still important in HCC despite definitive imaging?",
+          "options": [
+            "To confirm cirrhosis",
+            "To assess molecular markers and treatment response",
+            "To measure portal pressure",
+            "To exclude infection"
+          ],
+          "correct_index": 1,
+          "explanation": "Biopsy is increasingly used for molecular profiling to guide targeted therapies and immunotherapy."
+        },
+        {
+          "question": "Which is an example of loco-regional therapy for HCC?",
+          "options": [
+            "Systemic chemotherapy",
+            "Liver transplantation",
+            "Microwave or radiofrequency ablation",
+            "Oral antiviral therapy"
+          ],
+          "correct_index": 2,
+          "explanation": "Ablation (RFA/MWA) and Embolization (TACE) are key loco-regional treatments for tumors confined to the liver."
+        }
+      ]
+    }
+  }
+}, 
+
+"Cirrhosis": {
+  "description": "Portal Hypertension, Varices, Ascites, Vascular Diseases, and Liver Failure",
+  "content": {
+    "Portal Hypertension": {
+      "Pathophysiology": [
+        {
+          "question": "Portal hypertension is divided into how many major categories?",
+          "options": [
+            "Three",
+            "Two",
+            "Four",
+            "Five"
+          ],
+          "correct_index": 0,
+          "explanation": "The three major categories are Pre-hepatic, Intra-hepatic, and Post-hepatic."
+        },
+        {
+          "question": "Which category accounts for about 90% of portal hypertension cases?",
+          "options": [
+            "Pre-hepatic",
+            "Intra-hepatic",
+            "Post-hepatic",
+            "Cardiac"
+          ],
+          "correct_index": 1,
+          "explanation": "Intra-hepatic causes, predominantly cirrhosis, account for the vast majority of cases."
+        },
+        {
+          "question": "Structural increase in intrahepatic resistance is mainly caused by:",
+          "options": [
+            "Splanchnic vasodilation",
+            "RAAS activation",
+            "Hepatic fibrosis",
+            "Reduced cardiac output"
+          ],
+          "correct_index": 2,
+          "explanation": "Hepatic fibrosis and regenerative nodules distort the sinusoidal architecture, structurally increasing resistance."
+        },
+        {
+          "question": "Functional resistance increases because the cirrhotic liver:",
+          "options": [
+            "Overproduces vasodilators",
+            "Underproduces vasodilators",
+            "Increases bile flow",
+            "Enhances nitric oxide secretion"
+          ],
+          "correct_index": 1,
+          "explanation": "Paradoxically, while systemic NO is high, intrahepatic NO production is reduced, leading to sinusoidal vasoconstriction."
+        },
+        {
+          "question": "Increased portal inflow results from:",
+          "options": [
+            "Splanchnic venous vasodilation",
+            "Hepatic vein obstruction",
+            "Portal vein thrombosis",
+            "Reduced SVR"
+          ],
+          "correct_index": 0,
+          "explanation": "Splanchnic vasodilation increases blood flow into the portal system, exacerbating hypertension."
+        },
+        {
+          "question": "Decreased systemic vascular resistance leads to:",
+          "options": [
+            "Reduced cardiac output",
+            "Portal vein collapse",
+            "Hypotension and RAAS activation",
+            "Bradycardia"
+          ],
+          "correct_index": 2,
+          "explanation": "Systemic vasodilation causes effective hypovolemia, triggering RAAS and ADH activation to retain sodium/water."
+        }
+      ]
+    },
+    "Complications of Cirrhosis": {
+      "Varices": [
+        {
+          "question": "Esophageal varices are best described as:",
+          "options": [
+            "Arterio-venous malformations",
+            "Dilated lymphatics",
+            "Porto-systemic shunts",
+            "Portal vein aneurysms"
+          ],
+          "correct_index": 2,
+          "explanation": "Varices are collaterals (shunts) that form to bypass the obstructed liver, connecting portal and systemic circulation."
+        },
+        {
+          "question": "Annual bleeding risk of large varices is approximately:",
+          "options": [
+            "5%",
+            "15%",
+            "25%",
+            "40%"
+          ],
+          "correct_index": 1,
+          "explanation": "Large varices have a significant risk of bleeding, estimated at around 15% per year."
+        },
+        {
+          "question": "Small varices bleed at an approximate annual rate of:",
+          "options": [
+            "2%",
+            "8%",
+            "15%",
+            "30%"
+          ],
+          "correct_index": 1,
+          "explanation": "Small varices carry a lower, but still relevant, bleeding risk of roughly 5-8%."
+        },
+        {
+          "question": "Varices begin to form when HVPG exceeds:",
+          "options": [
+            "6 mmHg",
+            "8 mmHg",
+            "10 mmHg",
+            "12 mmHg"
+          ],
+          "correct_index": 2,
+          "explanation": "An Hepatic Venous Pressure Gradient (HVPG) > 10 mmHg is the threshold for the formation of varices."
+        },
+        {
+          "question": "Variceal bleeding usually occurs when HVPG exceeds:",
+          "options": [
+            "12 mmHg",
+            "10 mmHg",
+            "8 mmHg",
+            "15 mmHg"
+          ],
+          "correct_index": 0,
+          "explanation": "Bleeding is typically associated with an HVPG > 12 mmHg."
+        },
+        {
+          "question": "A cirrhotic patient with upper GI bleeding should be managed initially as:",
+          "options": [
+            "Peptic ulcer bleeding",
+            "Mallory\u2013Weiss tear",
+            "Gastritis",
+            "Variceal bleeding"
+          ],
+          "correct_index": 3,
+          "explanation": "Any UGI bleed in a cirrhotic patient is treated as variceal until proven otherwise (antibiotics, vasoactive drugs)."
+        },
+        {
+          "question": "Which is NOT part of initial management of variceal bleeding?",
+          "options": [
+            "Two IV lines",
+            "Blood typing",
+            "Antibiotics",
+            "Liver biopsy"
+          ],
+          "correct_index": 3,
+          "explanation": "Liver biopsy has no role in the acute management of hemorrhage; stability and hemostasis are the priorities."
+        },
+        {
+          "question": "Terlipressin lowers portal pressure by:",
+          "options": [
+            "Increasing portal inflow",
+            "Vasoconstricting splanchnic arterioles",
+            "Increasing SVR",
+            "Dilating hepatic sinusoids"
+          ],
+          "correct_index": 1,
+          "explanation": "Terlipressin causes splanchnic vasoconstriction, reducing inflow into the portal system."
+        },
+        {
+          "question": "Definitive endoscopic therapy for varices is:",
+          "options": [
+            "Injection therapy",
+            "Portal vein stenting",
+            "Band ligation",
+            "Balloon dilation"
+          ],
+          "correct_index": 2,
+          "explanation": "Endoscopic Variceal Ligation (EVL/banding) is the gold standard for controlling bleeding and eradication."
+        },
+        {
+          "question": "Balloon tamponade is classified as:",
+          "options": [
+            "First-line therapy",
+            "Preventive therapy",
+            "Definitive therapy",
+            "Rescue therapy"
+          ],
+          "correct_index": 3,
+          "explanation": "Sengstaken-Blakemore tubes are a temporary 'bridge' (rescue) therapy for uncontrolled bleeding before TIPS."
+        },
+        {
+          "question": "TIPS reduces portal pressure by:",
+          "options": [
+            "Blocking portal inflow",
+            "Creating an intrahepatic shunt",
+            "Reducing fibrosis",
+            "Increasing bile flow"
+          ],
+          "correct_index": 1,
+          "explanation": "Transjugular Intrahepatic Portosystemic Shunt (TIPS) creates a low-resistance channel between the portal and hepatic veins."
+        },
+        {
+          "question": "Primary pharmacologic prevention of variceal bleeding uses:",
+          "options": [
+            "ACE inhibitors",
+            "Selective beta blockers",
+            "Non-selective beta blockers",
+            "Diuretics"
+          ],
+          "correct_index": 2,
+          "explanation": "Non-selective beta blockers (e.g., Propranolol, Carvedilol) reduce portal inflow via splanchnic vasoconstriction."
+        }
+      ]
+    },
+    "General": {
+      "Scores": [
+        {
+          "question": "Which parameter is NOT included in the Child\u2013Pugh score?",
+          "options": [
+            "Bilirubin",
+            "Ascites",
+            "Encephalopathy",
+            "Creatinine"
+          ],
+          "correct_index": 3,
+          "explanation": "Child-Pugh includes Bilirubin, Albumin, INR, Ascites, and Encephalopathy. Creatinine is part of MELD."
+        },
+        {
+          "question": "The MELD score includes:",
+          "options": [
+            "Albumin",
+            "Creatinine",
+            "Platelet count",
+            "Sodium only"
+          ],
+          "correct_index": 1,
+          "explanation": "MELD uses Bilirubin, INR, and Creatinine (and Sodium in MELD-Na) to predict 3-month mortality."
+        }
+      ]
+    },
+    "Ascites": {
+      "Ascites": [
+        {
+          "question": "Ascites is defined as fluid accumulation in the:",
+          "options": [
+            "Pleural cavity",
+            "Pericardial sac",
+            "Peritoneal cavity",
+            "Hepatic sinusoids"
+          ],
+          "correct_index": 2,
+          "explanation": "Ascites is the pathologic accumulation of fluid within the peritoneal cavity."
+        },
+        {
+          "question": "Mortality within two years after development of ascites is about:",
+          "options": [
+            "20%",
+            "30%",
+            "50%",
+            "80%"
+          ],
+          "correct_index": 2,
+          "explanation": "The onset of ascites marks a significant decompensation, with approximately 50% mortality at 2 years."
+        },
+        {
+          "question": "A physical sign used to diagnose ascites is:",
+          "options": [
+            "Fluid wave",
+            "Shifting dullness",
+            "Murphy sign",
+            "Cullen sign"
+          ],
+          "correct_index": 1,
+          "explanation": "Shifting dullness is a sensitive physical exam maneuver to detect ascites."
+        },
+        {
+          "question": "Ascites develops only when HVPG exceeds:",
+          "options": [
+            "8 mmHg",
+            "10 mmHg",
+            "12 mmHg",
+            "15 mmHg"
+          ],
+          "correct_index": 2,
+          "explanation": "Significant portal hypertension (HVPG > 12 mmHg) is typically required for ascites formation."
+        },
+        {
+          "question": "Ascites forms due to:",
+          "options": [
+            "Low hydrostatic pressure",
+            "High oncotic pressure",
+            "High hydrostatic and low oncotic pressure",
+            "Bile leakage"
+          ],
+          "correct_index": 2,
+          "explanation": "Starling forces favor fluid leakage due to high portal pressure (hydrostatic) and low albumin (oncotic)."
+        },
+        {
+          "question": "SBP is best described as:",
+          "options": [
+            "Benign",
+            "Self-limited",
+            "Rare",
+            "Life-threatening"
+          ],
+          "correct_index": 3,
+          "explanation": "Spontaneous Bacterial Peritonitis (SBP) is a medical emergency with high mortality if untreated."
+        },
+        {
+          "question": "SAAG compares serum albumin with:",
+          "options": [
+            "Ascitic protein",
+            "Ascitic sodium",
+            "Ascitic albumin",
+            "Ascitic glucose"
+          ],
+          "correct_index": 2,
+          "explanation": "SAAG = Serum Albumin - Ascitic Albumin gradient."
+        },
+        {
+          "question": "A high SAAG suggests ascites due to:",
+          "options": [
+            "Malignancy",
+            "Infection",
+            "Portal hypertension",
+            "Pancreatitis"
+          ],
+          "correct_index": 2,
+          "explanation": "A SAAG > 1.1 g/dL indicates portal hypertension (transudative mechanism) with 97% accuracy."
+        },
+        {
+          "question": "The most important lifestyle intervention in ascites is:",
+          "options": [
+            "Fluid restriction",
+            "Protein restriction",
+            "Low sodium diet",
+            "Bed rest"
+          ],
+          "correct_index": 2,
+          "explanation": "Sodium restriction (<2g/day) is crucial to prevent fluid retention."
+        },
+        {
+          "question": "Compliance with diuretics can be assessed using:",
+          "options": [
+            "Body temperature",
+            "Urine sodium/potassium ratio",
+            "Hemoglobin",
+            "INR"
+          ],
+          "correct_index": 1,
+          "explanation": "A urine Na/K ratio > 1 suggests adequate natriuresis and responsiveness to diuretics."
+        }
+      ]
+    },
+    "Vascular Diseases": {
+      "Budd\u2013Chiari Syndrome": [
+        {
+          "question": "Budd\u2013Chiari syndrome involves obstruction of the:",
+          "options": [
+            "Portal vein",
+            "Hepatic artery",
+            "Hepatic veins",
+            "Inferior vena cava only"
+          ],
+          "correct_index": 2,
+          "explanation": "It is defined by the obstruction of hepatic venous outflow (hepatic veins or terminal IVC)."
+        },
+        {
+          "question": "The most common underlying cause of Budd\u2013Chiari syndrome is:",
+          "options": [
+            "Viral hepatitis",
+            "Myeloproliferative neoplasms",
+            "Alcohol",
+            "Autoimmune disease"
+          ],
+          "correct_index": 1,
+          "explanation": "Myeloproliferative disorders (e.g., Polycythemia Vera) are the leading cause of hypercoagulability in BCS."
+        },
+        {
+          "question": "A mutation commonly associated with Budd\u2013Chiari syndrome is:",
+          "options": [
+            "TP53",
+            "KRAS",
+            "JAK2",
+            "BRAF"
+          ],
+          "correct_index": 2,
+          "explanation": "The JAK2 V617F mutation is frequently found in patients with underlying myeloproliferative neoplasms."
+        },
+        {
+          "question": "The most important immediate treatment for Budd\u2013Chiari syndrome is:",
+          "options": [
+            "Diuretics",
+            "Antivirals",
+            "TIPS",
+            "Paracentesis"
+          ],
+          "correct_index": 2,
+          "explanation": "While anticoagulation is started, TIPS is often the crucial intervention to decompress the congested liver."
+        },
+        {
+          "question": "Initial anticoagulation in Budd\u2013Chiari is usually with:",
+          "options": [
+            "Aspirin",
+            "Warfarin",
+            "LMWH",
+            "DOACs"
+          ],
+          "correct_index": 2,
+          "explanation": "Low Molecular Weight Heparin (LMWH) is typically used for initial anticoagulation."
+        }
+      ],
+      "Portal Vein Thrombosis": [
+        {
+          "question": "Cirrhotic patients are pro-thrombotic because of:",
+          "options": [
+            "Low platelets",
+            "High INR",
+            "Imbalance of pro- and anti-coagulants",
+            "Reduced fibrinogen"
+          ],
+          "correct_index": 2,
+          "explanation": "Cirrhosis reduces both pro-coagulant and anti-coagulant factors (like Protein C/S), leading to a rebalanced but unstable hemostasis."
+        },
+        {
+          "question": "Portal vein thrombosis may extend into the:",
+          "options": [
+            "Hepatic artery",
+            "Renal vein",
+            "Splenic and SMV",
+            "IVC"
+          ],
+          "correct_index": 2,
+          "explanation": "Extension into the Splenic Vein and Superior Mesenteric Vein (SMV) can cause bowel ischemia."
+        },
+        {
+          "question": "Chronic portal vein thrombosis is suggested by:",
+          "options": [
+            "Sudden pain",
+            "Fever",
+            "Venous collaterals",
+            "ALT elevation"
+          ],
+          "correct_index": 2,
+          "explanation": "The formation of 'cavernous transformation' (portal cavernoma) represents collateral circulation in chronic PVT."
+        },
+        {
+          "question": "Before diagnosing non-malignant PVT, one must exclude:",
+          "options": [
+            "Infection",
+            "Autoimmune disease",
+            "Malignancy",
+            "Cirrhosis"
+          ],
+          "correct_index": 2,
+          "explanation": "HCC can invade the portal vein (tumor thrombus), which changes management entirely compared to bland thrombosis."
+        },
+        {
+          "question": "If anticoagulation fails in PVT, the next step is:",
+          "options": [
+            "Surgery",
+            "TIPS",
+            "Chemotherapy",
+            "Observation"
+          ],
+          "correct_index": 1,
+          "explanation": "TIPS can be used to recanalize the thrombosed vein and treat underlying portal hypertension."
+        }
+      ]
+    },
+    "Liver Failure": {
+      "Acute Liver Failure": [
+        {
+          "question": "Acute liver failure requires encephalopathy plus:",
+          "options": [
+            "ALT > 1000",
+            "INR > 1.5",
+            "Ascites",
+            "Bilirubin > 10"
+          ],
+          "correct_index": 1,
+          "explanation": "ALF is defined by coagulopathy (INR > 1.5) and encephalopathy in a patient without pre-existing cirrhosis."
+        },
+        {
+          "question": "Hyperacute liver failure is commonly caused by:",
+          "options": [
+            "HBV",
+            "DILI",
+            "Paracetamol toxicity",
+            "Alcohol"
+          ],
+          "correct_index": 2,
+          "explanation": "Paracetamol (Acetaminophen) toxicity typically presents with a hyperacute course (encephalopathy within 7 days)."
+        },
+        {
+          "question": "N-acetylcysteine is effective in:",
+          "options": [
+            "Paracetamol ALF only",
+            "Viral ALF only",
+            "All types of ALF",
+            "Chronic liver failure"
+          ],
+          "correct_index": 2,
+          "explanation": "NAC is the antidote for paracetamol but also improves transplant-free survival in non-paracetamol ALF (especially early stage)."
+        },
+        {
+          "question": "King\u2019s College Criteria include all EXCEPT:",
+          "options": [
+            "Encephalopathy",
+            "INR",
+            "Creatinine",
+            "Albumin"
+          ],
+          "correct_index": 3,
+          "explanation": "King's College Criteria use Age, Etiology, Encephalopathy, INR, pH, Lactate, Creatinine, and Bilirubin, but not Albumin."
+        }
+      ],
+      "ACLF": [
+        {
+          "question": "ACLF refers to:",
+          "options": [
+            "Acute liver failure without prior disease",
+            "Chronic liver failure only",
+            "Acute decompensation on chronic liver disease",
+            "Viral hepatitis"
+          ],
+          "correct_index": 2,
+          "explanation": "Acute-on-Chronic Liver Failure (ACLF) is acute decompensation in a patient with chronic liver disease/cirrhosis."
+        },
+        {
+          "question": "ACLF prognosis depends mainly on:",
+          "options": [
+            "Age",
+            "Etiology",
+            "Number of failing organs",
+            "INR"
+          ],
+          "correct_index": 2,
+          "explanation": "The CLIF-SOFA score predicts mortality based on the number of organ failures (liver, kidney, brain, coagulation, circulation, respiration)."
+        }
+      ]
+    },
+    "Hepatic Encephalopathy": {
+      "General": [
+        {
+          "question": "Hepatic encephalopathy is mainly caused by accumulation of:",
+          "options": [
+            "Lactate",
+            "Bilirubin",
+            "Ammonia",
+            "Urea"
+          ],
+          "correct_index": 2,
+          "explanation": "Ammonia (NH3) crosses the blood-brain barrier and causes astrocyte swelling and dysfunction."
+        },
+        {
+          "question": "A classic sign of hepatic encephalopathy is:",
+          "options": [
+            "Rigidity",
+            "Asterixis",
+            "Ataxia",
+            "Tremor at rest"
+          ],
+          "correct_index": 1,
+          "explanation": "Asterixis ('flapping tremor')  is the hallmark physical sign of metabolic encephalopathy."
+        },
+        {
+          "question": "Type C hepatic encephalopathy is associated with:",
+          "options": [
+            "Acute liver failure",
+            "Porto-systemic shunt without liver disease",
+            "Cirrhosis with portal hypertension",
+            "Drug toxicity"
+          ],
+          "correct_index": 2,
+          "explanation": "Type A is Acute, Type B is Bypass (shunt), and Type C is Cirrhosis-related."
+        },
+        {
+          "question": "Lactulose treats hepatic encephalopathy by:",
+          "options": [
+            "Increasing ammonia absorption",
+            "Converting NH\u2083 to NH\u2084\u207a in the colon",
+            "Enhancing renal clearance",
+            "Neutralizing bile acids"
+          ],
+          "correct_index": 1,
+          "explanation": "Lactulose acidifies the gut lumen, converting ammonia (NH3, absorbable) to ammonium (NH4+, non-absorbable), which is excreted."
+        }
+      ]
+    }
+  }
+}
+
+          
+        }
+      },
+      "Digestive System": {
+  "drawers": {
+    "Approaches": {
+      "description": "Approaches to Diarrhea, Constipation, and GI Bleeding",
+      "content": {
+        "Approach to Diarrhea": {
+          "Acute Diarrhea": [
+            {
+              "question": "Acute diarrhea is most commonly classified physiologically as:",
+              "options": [
+                "Osmotic diarrhea",
+                "Inflammatory diarrhea",
+                "Secretory diarrhea",
+                "Fatty diarrhea"
+              ],
+              "correct_index": 2,
+              "explanation": "Most cases of acute infectious diarrhea are secretory in nature, driven by enterotoxins or viral mechanisms."
+            },
+            {
+              "question": "The main mechanism of secretory diarrhea involves:",
+              "options": [
+                "Malabsorption of fats",
+                "Excess electrolyte secretion into the intestinal lumen",
+                "Immune-mediated mucosal injury",
+                "Reduced intestinal motility"
+              ],
+              "correct_index": 1,
+              "explanation": "Secretory diarrhea is caused by the active secretion of electrolytes (primarily chloride) and water into the bowel lumen."
+            },
+            {
+              "question": "When evaluating acute diarrhea, the most important transmission route to consider is:",
+              "options": [
+                "Airborne transmission",
+                "Vector-borne transmission",
+                "Fecal\u2013oral transmission",
+                "Hematogenous spread"
+              ],
+              "correct_index": 2,
+              "explanation": "The fecal-oral route is the primary mode of transmission for most enteric pathogens causing acute diarrhea."
+            },
+            {
+              "question": "Which patient population is considered at higher risk for infectious acute diarrhea?",
+              "options": [
+                "Healthy athletes",
+                "Travelers",
+                "Patients with hypothyroidism",
+                "Adolescents"
+              ],
+              "correct_index": 1,
+              "explanation": "Travelers to endemic areas are at high risk for 'Traveler's Diarrhea' (often E. coli)."
+            },
+            {
+              "question": "Most cases of infectious acute diarrhea:",
+              "options": [
+                "Require antibiotic therapy",
+                "Progress to chronic diarrhea",
+                "Resolve spontaneously without intervention",
+                "Cause severe dehydration"
+              ],
+              "correct_index": 2,
+              "explanation": "Acute diarrhea is typically self-limiting and resolves with supportive care alone."
+            },
+            {
+              "question": "Which of the following is an indication to intervene in infectious diarrhea?",
+              "options": [
+                "Mild watery diarrhea",
+                "Diarrhea lasting 2 days",
+                "High fever or bloody diarrhea",
+                "Recent travel only"
+              ],
+              "correct_index": 2,
+              "explanation": "Systemic signs (high fever) or dysentery (bloody stools) warrant investigation and potential treatment."
+            },
+            {
+              "question": "First-line management of infectious acute diarrhea includes:",
+              "options": [
+                "Immediate antibiotics",
+                "Rehydration and nutritional support",
+                "Corticosteroids",
+                "Bowel rest only"
+              ],
+              "correct_index": 1,
+              "explanation": "Oral rehydration therapy (ORT) and maintenance of nutrition are the cornerstones of management."
+            },
+            {
+              "question": "Anti-diarrheal medications should be avoided when diarrhea is accompanied by:",
+              "options": [
+                "Abdominal cramps",
+                "Nausea",
+                "Fever or bleeding",
+                "Dehydration"
+              ],
+              "correct_index": 2,
+              "explanation": "Anti-motility agents (like Loperamide) are contraindicated in inflammatory diarrhea (fever/blood) due to risk of toxic megacolon."
+            },
+            {
+              "question": "Routine antibiotic treatment in acute infectious diarrhea should generally be:",
+              "options": [
+                "Encouraged",
+                "Given to all hospitalized patients",
+                "Avoided",
+                "Started after 24 hours"
+              ],
+              "correct_index": 2,
+              "explanation": "Antibiotics are generally avoided unless specific indications exist, to prevent resistance and side effects."
+            }
+          ],
+          "Chronic Diarrhea": [
+            {
+              "question": "Chronic diarrhea is defined as diarrhea lasting longer than:",
+              "options": [
+                "2 weeks",
+                "3 weeks",
+                "4 weeks",
+                "6 weeks"
+              ],
+              "correct_index": 2,
+              "explanation": "The clinical definition of chronic diarrhea is symptoms persisting for more than 4 weeks."
+            },
+            {
+              "question": "Osmotic diarrhea occurs due to:",
+              "options": [
+                "Active chloride secretion",
+                "Inflammatory mucosal damage",
+                "Non-absorbed osmotically active substances",
+                "Reduced intestinal blood flow"
+              ],
+              "correct_index": 2,
+              "explanation": "Substances that are not absorbed (e.g., lactose, magnesium) draw water into the lumen via osmosis."
+            },
+            {
+              "question": "Which clinical feature may be associated with chronic diarrhea?",
+              "options": [
+                "Hematemesis",
+                "Steatorrhea",
+                "Dysphagia",
+                "Constipation"
+              ],
+              "correct_index": 1,
+              "explanation": "Steatorrhea (fatty stool) indicates malabsorption, a common mechanism in chronic diarrhea."
+            },
+            {
+              "question": "Inflammatory diarrhea is typically associated with:",
+              "options": [
+                "Absence of pain",
+                "Fever and abdominal pain",
+                "No laboratory abnormalities",
+                "Only watery stools"
+              ],
+              "correct_index": 1,
+              "explanation": "Inflammatory causes (e.g., IBD) often present with pain, fever, and biomarkers of inflammation."
+            },
+            {
+              "question": "Which stool marker suggests inflammatory diarrhea?",
+              "options": [
+                "Lactoferrin",
+                "Occult blood",
+                "Calprotectin",
+                "Fat globules"
+              ],
+              "correct_index": 2,
+              "explanation": "Fecal Calprotectin is a sensitive marker for intestinal inflammation (neutrophil migration)."
+            }
+          ]
+        },
+        "Approach to Constipation": {
+          "Approach to Constipation": [
+            {
+              "question": "Constipation is clinically defined according to which criteria?",
+              "options": [
+                "Bristol Stool Chart",
+                "Child\u2013Pugh score",
+                "ROME IV criteria",
+                "MELD score"
+              ],
+              "correct_index": 2,
+              "explanation": "The ROME IV criteria are the standard diagnostic guidelines for functional constipation."
+            },
+            {
+              "question": "Slow transit constipation is characterized by:",
+              "options": [
+                "Difficulty evacuating stool",
+                "Delayed passage from cecum to rectum",
+                "Anal sphincter spasm",
+                "Rectal prolapse"
+              ],
+              "correct_index": 1,
+              "explanation": "It involves prolonged colonic transit time due to myopathy or neuropathy."
+            },
+            {
+              "question": "Which factor may contribute to slow transit constipation?",
+              "options": [
+                "Hyperthyroidism",
+                "Increased physical activity",
+                "Neurologic disorders",
+                "Acute infection"
+              ],
+              "correct_index": 2,
+              "explanation": "Neurologic disorders (e.g., Parkinson's, MS) or spinal cord injuries often cause slow transit."
+            },
+            {
+              "question": "Obstructed defecation is primarily caused by:",
+              "options": [
+                "Reduced colonic motility",
+                "Functional ileus",
+                "Mechanical outlet obstruction",
+                "Osmotic imbalance"
+              ],
+              "correct_index": 2,
+              "explanation": "Causes include pelvic floor dyssynergia (functional) or structural issues like rectocele (mechanical)."
+            },
+            {
+              "question": "Stool consistency can be described using the:",
+              "options": [
+                "ROME IV scale",
+                "Child score",
+                "Bristol Stool Chart",
+                "SAAG"
+              ],
+              "correct_index": 2,
+              "explanation": "The Bristol Stool Chart classifies stool form into 7 types (Type 1-2 indicating constipation)."
+            },
+            {
+              "question": "Which diagnostic test evaluates total gut transit time using an ingestible device?",
+              "options": [
+                "Defecography",
+                "Anorectal manometry",
+                "Wireless motility capsule",
+                "Colonoscopy"
+              ],
+              "correct_index": 2,
+              "explanation": "The Wireless Motility Capsule (SmartPill) measures transit time through the entire GI tract."
+            },
+            {
+              "question": "Radiopaque marker testing is used to:",
+              "options": [
+                "Measure rectal pressure",
+                "Assess evacuation mechanics",
+                "Evaluate transit time",
+                "Detect bleeding"
+              ],
+              "correct_index": 2,
+              "explanation": "A sitz marker study involves ingesting markers and taking X-rays to assess colonic transit time."
+            },
+            {
+              "question": "Anorectal manometry primarily assesses:",
+              "options": [
+                "Stool consistency",
+                "Colonic motility",
+                "Rectal and anal pressures",
+                "Mucosal inflammation"
+              ],
+              "correct_index": 2,
+              "explanation": "It measures pressures in the anal sphincter and rectum and assesses the recto-anal inhibitory reflex."
+            },
+            {
+              "question": "First-line non-pharmacologic treatment for constipation includes:",
+              "options": [
+                "Antibiotics",
+                "High-protein diet",
+                "Lifestyle and dietary fiber increase",
+                "Surgery"
+              ],
+              "correct_index": 2,
+              "explanation": "Initial management always focuses on increasing fluid/fiber intake and physical activity."
+            },
+            {
+              "question": "Which pharmacologic option is considered a stimulant laxative?",
+              "options": [
+                "Fiber supplements",
+                "Osmotic agents only",
+                "Stimulant laxatives",
+                "Antibiotics"
+              ],
+              "correct_index": 2,
+              "explanation": "Stimulant laxatives (e.g., Bisacodyl, Senna) directly stimulate colonic motility."
+            }
+          ]
+        },
+        "Approach to Bleeding": {
+          "Upper GI Bleeding": [
+            {
+              "question": "Approximately what percentage of upper GI bleeding cases are due to varices?",
+              "options": [
+                "10%",
+                "25%",
+                "50%",
+                "75%"
+              ],
+              "correct_index": 1,
+              "explanation": "While Peptic Ulcer Disease is most common, varices account for a significant portion, typically cited around 20-30%."
+            },
+            {
+              "question": "The most common cause of non-variceal upper GI bleeding is:",
+              "options": [
+                "Mallory\u2013Weiss tear",
+                "Esophagitis",
+                "Peptic ulcer disease",
+                "Gastric cancer"
+              ],
+              "correct_index": 2,
+              "explanation": "Peptic Ulcer Disease (PUD) remains the leading cause of UGIB globally."
+            },
+            {
+              "question": "Initial management of an acutely bleeding patient includes:",
+              "options": [
+                "Immediate endoscopy only",
+                "Airway protection and fluid resuscitation",
+                "Antibiotics for all patients",
+                "Surgery"
+              ],
+              "correct_index": 1,
+              "explanation": "Stabilization (Airway, Breathing, Circulation) is priority #1 before any diagnostic procedure."
+            },
+            {
+              "question": "In non-variceal upper GI bleeding, which medication is indicated?",
+              "options": [
+                "Antibiotics",
+                "Corticosteroids",
+                "Proton pump inhibitors",
+                "Beta blockers"
+              ],
+              "correct_index": 2,
+              "explanation": "High-dose PPIs stabilize the clot by raising intragastric pH."
+            },
+            {
+              "question": "In patients with suspected variceal bleeding, which antibiotic should be given before endoscopy?",
+              "options": [
+                "Ciprofloxacin",
+                "Metronidazole",
+                "Ceftriaxone",
+                "Amoxicillin"
+              ],
+              "correct_index": 2,
+              "explanation": "Prophylactic antibiotics (usually Ceftriaxone) reduce mortality and rebleeding in cirrhotic patients with GI bleed."
+            }
+          ],
+          "Lower GI Bleeding": [
+            {
+              "question": "The most common cause of lower GI bleeding is:",
+              "options": [
+                "Colon cancer",
+                "Hemorrhoids",
+                "Diverticulosis",
+                "Inflammatory bowel disease"
+              ],
+              "correct_index": 2,
+              "explanation": "Diverticular bleeding is the most frequent cause of major lower gastrointestinal hemorrhage."
+            }
+          ]
+        }
+      }
+    }, 
+    "Imaging": {
+  "description": "Diagnostic Imaging Modalities: X-Ray, US, CT, and MRI",
+  "content": {
+    "Imaging": {
+      "X-Ray": [
+        {
+          "question": "An abdominal X-ray is most commonly indicated in which clinical scenario?",
+          "options": [
+            "Chronic abdominal pain",
+            "Acute abdomen",
+            "Functional bowel disorders",
+            "Cancer staging"
+          ],
+          "correct_index": 1,
+          "explanation": "Plain abdominal radiography is a first-line investigation for the 'acute abdomen' to rule out perforation or obstruction."
+        },
+        {
+          "question": "Which finding may be seen on a standing abdominal X-ray?",
+          "options": [
+            "Portal venous gas",
+            "Pneumobilia",
+            "Air\u2013fluid levels in the stomach",
+            "Bowel wall thickening"
+          ],
+          "correct_index": 2,
+          "explanation": "Air-fluid levels are a classic sign of intestinal obstruction or ileus, best seen on erect films."
+        },
+        {
+          "question": "The \u201ccoffee bean sign\u201d on X-ray is characteristic of:",
+          "options": [
+            "Small bowel obstruction",
+            "Gastric outlet obstruction",
+            "Sigmoid colon obstruction",
+            "Cecal volvulus"
+          ],
+          "correct_index": 2,
+          "explanation": "The 'coffee bean sign' represents a twisted, dilated sigmoid colon, characteristic of sigmoid volvulus."
+        }
+      ],
+      "Fluoroscopy": [
+        {
+          "question": "Fluoroscopy with barium swallow or enema is best described as:",
+          "options": [
+            "Structural imaging only",
+            "Functional examination of the GI tract",
+            "Cancer staging modality",
+            "Vascular imaging"
+          ],
+          "correct_index": 1,
+          "explanation": "Fluoroscopy allows real-time visualization of the GI tract's function (motility) and mucosal structure."
+        }
+      ],
+      "Ultrasound (US)": [
+        {
+          "question": "A key advantage of standard abdominal ultrasound is:",
+          "options": [
+            "High radiation dose",
+            "Excellent lung imaging",
+            "Bedside availability without radiation",
+            "Superior bone visualization"
+          ],
+          "correct_index": 2,
+          "explanation": "Ultrasound is safe (no ionizing radiation), portable, and ideal for initial assessment of the liver and gallbladder."
+        }
+      ],
+      "CEUS": [
+        {
+          "question": "Contrast-enhanced ultrasound (CEUS) is useful for all of the following EXCEPT:",
+          "options": [
+            "Lesion characterization",
+            "Blood volume assessment",
+            "Detection of inflammation",
+            "Visualization of biliary ducts"
+          ],
+          "correct_index": 3,
+          "explanation": "CEUS contrast agents are strictly intravascular (blood pool agents) and are not excreted into the bile ducts."
+        }
+      ],
+      "CT": [
+        {
+          "question": "CT is considered the imaging modality of choice for:",
+          "options": [
+            "Most abdominal pathologies",
+            "Functional GI disorders",
+            "Esophageal motility disorders",
+            "Early pregnancy evaluation"
+          ],
+          "correct_index": 0,
+          "explanation": "CT provides rapid, high-resolution imaging of the entire abdomen, making it the gold standard for most acute and chronic pathologies."
+        },
+        {
+          "question": "CT imaging phases allow evaluation of:",
+          "options": [
+            "Only bowel motility",
+            "Enhancement in arterial and venous phases",
+            "Neural conduction",
+            "Biliary flow only"
+          ],
+          "correct_index": 1,
+          "explanation": "Multiphasic CT (arterial, portal venous, delayed) is crucial for characterizing tumors and vascular anatomy."
+        },
+        {
+          "question": "The \u201ccomb sign\u201d on CT refers to:",
+          "options": [
+            "Fat stranding around the pancreas",
+            "Hyperemia of bowel mesentery resembling a comb",
+            "Calcified bowel wall",
+            "Pneumatosis intestinalis"
+          ],
+          "correct_index": 1,
+          "explanation": "The 'comb sign' (engorged vasa recta) is a specific sign of active inflammation in Crohn's disease."
+        }
+      ],
+      "MRI": [
+        {
+          "question": "MRCP is primarily used to visualize:",
+          "options": [
+            "Hepatic arteries",
+            "Pancreatic enzymes",
+            "Biliary ducts",
+            "Portal venous pressure"
+          ],
+          "correct_index": 2,
+          "explanation": "Magnetic Resonance Cholangiopancreatography (MRCP) uses heavily T2-weighted sequences to visualize fluid-filled biliary and pancreatic ducts."
+        }
+      ]
+    }
+  }
+}, 
+
+"Cancer": {
+  "description": "Neuroendocrine Tumors (NETs), Screening, Hereditary Syndromes, and Upper GI Malignancies",
+  "content": {
+    "Neuroendocrine Tumors (NETs)": {
+      "Genetic Background": [
+        {
+          "question": "MEN1 syndrome classically involves tumors of the pituitary, parathyroid, and:",
+          "options": [
+            "Pancreas",
+            "Thyroid",
+            "Adrenal gland",
+            "Colon"
+          ],
+          "correct_index": 0,
+          "explanation": "MEN1 (3 Ps) involves Pituitary adenomas, Parathyroid hyperplasia, and Pancreatic NETs."
+        },
+        {
+          "question": "Zollinger\u2013Ellison syndrome is caused by mutation in which gene?",
+          "options": [
+            "APC",
+            "TP53",
+            "KRAS",
+            "MEN1"
+          ],
+          "correct_index": 3,
+          "explanation": "Zollinger-Ellison Syndrome (Gastrinoma) is strongly associated with MEN1 gene mutations."
+        }
+      ],
+      "Insulinoma": [
+        {
+          "question": "Which pancreatic neuroendocrine tumor is the most common?",
+          "options": [
+            "Insulinoma",
+            "VIPoma",
+            "Gastrinoma",
+            "Glucagonoma"
+          ],
+          "correct_index": 0,
+          "explanation": "Insulinoma is the most frequent functional pancreatic neuroendocrine tumor."
+        },
+        {
+          "question": "The primary biochemical abnormality caused by insulinoma is:",
+          "options": [
+            "Hyperglycemia",
+            "Hypercalcemia",
+            "Metabolic acidosis",
+            "Hypoglycemia"
+          ],
+          "correct_index": 3,
+          "explanation": "Unregulated insulin secretion leads to severe hypoglycemia."
+        },
+        {
+          "question": "Neuropsychiatric symptoms in insulinoma result mainly from:",
+          "options": [
+            "Hypoglycemia",
+            "Acid hypersecretion",
+            "Electrolyte imbalance",
+            "Hypergastrinemia"
+          ],
+          "correct_index": 0,
+          "explanation": "Neuroglycopenia (brain glucose deprivation) causes confusion, behavioral changes, and seizures."
+        },
+        {
+          "question": "Diagnosis of insulinoma is confirmed after prolonged fasting of:",
+          "options": [
+            "6\u201312 hours",
+            "12\u201324 hours",
+            ">72 hours",
+            "24\u201372 hours"
+          ],
+          "correct_index": 3,
+          "explanation": "The 72-hour fast is the gold standard; most patients develop symptoms within 48 hours."
+        },
+        {
+          "question": "Which drug induces hyperglycemia and is used in insulinoma?",
+          "options": [
+            "Diazoxide",
+            "Octreotide",
+            "Metformin",
+            "Insulin"
+          ],
+          "correct_index": 0,
+          "explanation": "Diazoxide inhibits insulin release and is used to manage hypoglycemia."
+        },
+        {
+          "question": "Which neuroendocrine tumor has an established endoscopic ablative treatment?",
+          "options": [
+            "Gastrinoma",
+            "Insulinoma",
+            "Glucagonoma",
+            "Rectal NET"
+          ],
+          "correct_index": 1,
+          "explanation": "EUS-guided ablation is an emerging treatment for small, symptomatic insulinomas."
+        }
+      ],
+      "Gastrinoma": [
+        {
+          "question": "Gastrinoma is most strongly associated with:",
+          "options": [
+            "FAP",
+            "Lynch syndrome",
+            "Zollinger\u2013Ellison syndrome",
+            "MEN2"
+          ],
+          "correct_index": 2,
+          "explanation": "Gastrinoma is the tumor responsible for Zollinger-Ellison Syndrome (ZES)."
+        },
+        {
+          "question": "The clinical manifestations of gastrinoma are driven mainly by:",
+          "options": [
+            "Hypoglycemia",
+            "Excess gastric acid secretion",
+            "Malabsorption",
+            "Reduced motility"
+          ],
+          "correct_index": 1,
+          "explanation": "Excess gastrin stimulates massive gastric acid hypersecretion, causing ulcers and diarrhea."
+        },
+        {
+          "question": "Gastrinoma should be suspected when peptic ulcers:",
+          "options": [
+            "Heal rapidly with PPIs",
+            "Occur only in elderly patients",
+            "Are painless",
+            "Respond poorly to PPI therapy"
+          ],
+          "correct_index": 3,
+          "explanation": "Refractory, recurrent, or multiple ulcers suggest a hypersecretory state like ZES."
+        }
+      ],
+      "Gastric Carcinoids": [
+        {
+          "question": "Which gastric carcinoid type is usually benign and presents as small polyps?",
+          "options": [
+            "Type 1",
+            "Type 2",
+            "Type 3",
+            "Sporadic type"
+          ],
+          "correct_index": 0,
+          "explanation": "Type 1 gastric NETs are associated with autoimmune gastritis, are typically small, multiple, and benign."
+        },
+        {
+          "question": "Gastric carcinoids associated with Zollinger\u2013Ellison syndrome are classified as:",
+          "options": [
+            "Type 1",
+            "Type 3",
+            "Type 2",
+            "Non-functional"
+          ],
+          "correct_index": 2,
+          "explanation": "Type 2 gastric NETs occur in the setting of MEN1/ZES due to hypergastrinemia."
+        },
+        {
+          "question": "Which gastric carcinoid is typically large and metastatic at diagnosis?",
+          "options": [
+            "Type 1",
+            "Type 2",
+            "Hyperplastic",
+            "Type 3"
+          ],
+          "correct_index": 3,
+          "explanation": "Type 3 gastric NETs are sporadic, aggressive, not related to gastrin, and often metastatic."
+        },
+        {
+          "question": "Ki-67 index is measured in gastric carcinoids to assess:",
+          "options": [
+            "Acid secretion",
+            "Tumor grade and proliferation",
+            "Blood supply",
+            "Metastatic spread"
+          ],
+          "correct_index": 1,
+          "explanation": "The Ki-67 proliferation index is the primary marker used to grade Neuroendocrine Tumors (G1, G2, G3)."
+        }
+      ],
+      "Appendiceal & Rectal NETs": [
+        {
+          "question": "Appendiceal neuroendocrine tumors are most often detected:",
+          "options": [
+            "During screening colonoscopy",
+            "Incidentally after appendectomy",
+            "On CT for diarrhea",
+            "On MRI"
+          ],
+          "correct_index": 1,
+          "explanation": "The vast majority are incidental findings in pathology after appendectomy for appendicitis."
+        },
+        {
+          "question": "Small appendiceal NETs are adequately treated with:",
+          "options": [
+            "Chemotherapy",
+            "Right hemicolectomy",
+            "Appendectomy alone",
+            "Radiation therapy"
+          ],
+          "correct_index": 2,
+          "explanation": "Tumors <1-2 cm at the tip are usually cured by simple appendectomy."
+        },
+        {
+          "question": "Rectal NETs are:",
+          "options": [
+            "Rare",
+            "Untreatable surgically",
+            "Second most common NET site after stomach",
+            "Always metastatic"
+          ],
+          "correct_index": 2,
+          "explanation": "Rectal NETs are becoming increasingly common (often cited as the 2nd or 3rd most common site)."
+        }
+      ],
+      "VIPoma & Glucagonoma": [
+        {
+          "question": "Which tumor causes secretory diarrhea that persists during fasting?",
+          "options": [
+            "Gastrinoma",
+            "Insulinoma",
+            "Glucagonoma",
+            "VIPoma"
+          ],
+          "correct_index": 3,
+          "explanation": "VIPoma secretes Vasoactive Intestinal Peptide, causing WDHA syndrome (Watery Diarrhea, Hypokalemia, Achlorhydria)."
+        },
+        {
+          "question": "Glucagonoma is best described as:",
+          "options": [
+            "Very rare pancreatic NET",
+            "Most common NET",
+            "Extra-pancreatic tumor",
+            "Non-functional tumor"
+          ],
+          "correct_index": 0,
+          "explanation": "Glucagonomas are very rare functional pancreatic NETs associated with necrolytic migratory erythema."
+        }
+      ],
+      "Carcinoid Syndrome": [
+        {
+          "question": "Carcinoid syndrome usually develops in patients with:",
+          "options": [
+            "Local gastric NETs",
+            "Insulinoma",
+            "Rectal NETs",
+            "Metastatic small bowel NETs"
+          ],
+          "correct_index": 3,
+          "explanation": "Systemic symptoms usually occur only when liver metastases are present, bypassing hepatic metabolism."
+        },
+        {
+          "question": "The main mediator described here in carcinoid syndrome is:",
+          "options": [
+            "Histamine",
+            "Serotonin",
+            "Gastrin",
+            "VIP"
+          ],
+          "correct_index": 0,
+          "explanation": "While Serotonin is the hallmark, Histamine is also a key mediator, especially in gastric carcinoids (foregut)."
+        },
+        {
+          "question": "Which symptom is characteristic of carcinoid syndrome?",
+          "options": [
+            "Dysphagia",
+            "Flushing",
+            "Constipation",
+            "Hematemesis"
+          ],
+          "correct_index": 1,
+          "explanation": "Classic triad: Flushing, Diarrhea, and Valvular heart disease."
+        },
+        {
+          "question": "Carcinoid crisis may occur:",
+          "options": [
+            "After fasting",
+            "After PPI initiation",
+            "During surgical manipulation of the tumor",
+            "During colonoscopy only"
+          ],
+          "correct_index": 2,
+          "explanation": "Crisis involves life-threatening hemodynamic instability triggered by anesthesia or tumor handling."
+        },
+        {
+          "question": "First-line treatment for carcinoid syndrome is:",
+          "options": [
+            "Chemotherapy",
+            "Antihistamines alone",
+            "PPIs",
+            "Somatostatin analogs"
+          ],
+          "correct_index": 3,
+          "explanation": "Octreotide/Lanreotide (Somatostatin analogs) control hormone secretion and symptoms."
+        }
+      ]
+    },
+    "Screening & Hereditary Cancer": {
+      "Colorectal Cancer Screening": [
+        {
+          "question": "Colorectal cancer screening focuses mainly on:",
+          "options": [
+            "Primary prevention",
+            "Secondary prevention",
+            "Tertiary prevention",
+            "Genetic prevention"
+          ],
+          "correct_index": 1,
+          "explanation": "Screening aims to detect pre-cancerous polyps or early cancer (Secondary Prevention)."
+        },
+        {
+          "question": "FIT screening detects:",
+          "options": [
+            "Human hemoglobin in stool",
+            "DNA mutations",
+            "Glycoproteins",
+            "Bacterial antigens"
+          ],
+          "correct_index": 0,
+          "explanation": "Fecal Immunochemical Test (FIT) specifically detects human hemoglobin."
+        },
+        {
+          "question": "Colonoscopy sensitivity and specificity for CRC are approximately:",
+          "options": [
+            "60%",
+            "75%",
+            "85%", ">90%"
+          ],
+          "correct_index": 3,
+          "explanation": "Colonoscopy is the gold standard with >90-95% sensitivity for significant lesions."
+        }
+      ],
+      "Hereditary Syndromes": [
+        {
+          "question": "Familial adenomatous polyposis is caused by mutation in:",
+          "options": [
+            "MEN1",
+            "BRCA",
+            "APC",
+            "MMR genes"
+          ],
+          "correct_index": 2,
+          "explanation": "Familial Adenomatous Polyposis (FAP) is caused by mutations in the APC tumor suppressor gene."
+        },
+        {
+          "question": "Hundreds to thousands of colonic polyps are diagnostic of:",
+          "options": [
+            "Lynch syndrome",
+            "Oligopolyposis",
+            "IBD",
+            "FAP"
+          ],
+          "correct_index": 3,
+          "explanation": "The hallmark of FAP is the development of >100 adenomatous polyps."
+        },
+        {
+          "question": "The only effective treatment for FAP is:",
+          "options": [
+            "Chemotherapy",
+            "Endoscopic surveillance",
+            "Radiation",
+            "Surgical colectomy"
+          ],
+          "correct_index": 3,
+          "explanation": "Due to 100% risk of cancer, prophylactic colectomy is required."
+        },
+        {
+          "question": "Oligopolyposis is defined as:",
+          "options": [
+            "<5 polyps",
+            "10\u2013100 polyps",
+            ">1000 polyps",
+            "Only serrated polyps"
+          ],
+          "correct_index": 1,
+          "explanation": "Oligopolyposis is defined as having a cumulative lifetime count of 10-100 adenomas."
+        },
+        {
+          "question": "Lynch syndrome is diagnosed by detecting mutations in:",
+          "options": [
+            "APC",
+            "MEN1",
+            "KRAS",
+            "MMR genes"
+          ],
+          "correct_index": 3,
+          "explanation": "Lynch syndrome (HNPCC) is caused by defects in Mismatch Repair (MMR) genes (MLH1, MSH2, etc.)."
+        },
+        {
+          "question": "Lifetime colorectal cancer risk in Lynch syndrome is approximately:",
+          "options": [
+            "20%",
+            "40%",
+            "60\u201370%",
+            ">90%"
+          ],
+          "correct_index": 2,
+          "explanation": "Without surveillance, the risk is high, estimated at 50-70%."
+        },
+        {
+          "question": "Women with Lynch syndrome should consider hysterectomy:",
+          "options": [
+            "At diagnosis",
+            "Before puberty",
+            "After completing childbearing",
+            "Only after cancer develops"
+          ],
+          "correct_index": 2,
+          "explanation": "Due to high risk of endometrial cancer, prophylactic hysterectomy is recommended after childbearing."
+        }
+      ]
+    },
+    "Esophageal & Gastric Cancer": {
+      "Esophageal Tumors": [
+        {
+          "question": "Esophageal squamous cell carcinoma is most common in:",
+          "options": [
+            "Western countries",
+            "Eastern countries",
+            "Children",
+            "Women only"
+          ],
+          "correct_index": 1,
+          "explanation": "Esophageal Squamous Cell Carcinoma (ESCC) is prevalent in the 'Asian belt' (East)."
+        },
+        {
+          "question": "Esophageal adenocarcinoma is strongly associated with:",
+          "options": [
+            "Smoking",
+            "Alcohol",
+            "GERD",
+            "H. pylori"
+          ],
+          "correct_index": 2,
+          "explanation": "Esophageal Adenocarcinoma (EAC) arises from Barrett's esophagus, a complication of chronic GERD."
+        },
+        {
+          "question": "The gold standard for diagnosing esophageal cancer is:",
+          "options": [
+            "CT",
+            "PET",
+            "Endoscopy with biopsy",
+            "Barium swallow"
+          ],
+          "correct_index": 2,
+          "explanation": "Direct visualization and tissue sampling via endoscopy are required for diagnosis."
+        }
+      ],
+      "Gastric Tumors": [
+        {
+          "question": "Which gastric cancer type lacks gland formation?",
+          "options": [
+            "Intestinal",
+            "Diffuse",
+            "NET",
+            "MALT"
+          ],
+          "correct_index": 1,
+          "explanation": "Diffuse gastric cancer (Signet ring cell) consists of poorly cohesive cells without gland formation."
+        },
+        {
+          "question": "Gastric MALT lymphoma is associated with:",
+          "options": [
+            "EBV",
+            "NSAIDs",
+            "Alcohol",
+            "Helicobacter pylori"
+          ],
+          "correct_index": 3,
+          "explanation": "MALT lymphoma is causally linked to H. pylori infection in the majority of cases."
+        }
+      ]
+    }
+  }
+}, 
+
+"Inflammation": {
+  "description": "Esophagitis, GERD, Peptic Ulcer Disease, and H. pylori",
+  "content": {
+    "Esophagitis and GERD": {
+      "General": [
+        {
+          "question": "Which symptom is considered a classic complaint of gastroesophageal reflux?",
+          "options": [
+            "Heartburn",
+            "Hematemesis",
+            "Jaundice",
+            "Melena"
+          ],
+          "correct_index": 0,
+          "explanation": "Heartburn (pyrosis) is the hallmark symptom of GERD, characterized by a burning sensation in the chest."
+        },
+        {
+          "question": "Regurgitation in GERD refers to:",
+          "options": [
+            "Vomiting of bile",
+            "Passive return of gastric contents to the mouth",
+            "Painful swallowing",
+            "Difficulty initiating swallowing"
+          ],
+          "correct_index": 1,
+          "explanation": "Regurgitation is the effortless, passive return of gastric contents into the pharynx or mouth."
+        },
+        {
+          "question": "Chest pain in GERD can be difficult to localize because esophageal pain is mediated by:",
+          "options": [
+            "Somatic innervation",
+            "Parasympathetic nerves",
+            "Visceral innervation",
+            "Phrenic nerve"
+          ],
+          "correct_index": 2,
+          "explanation": "Visceral pain fibers from the esophagus overlap with cardiac innervation, making localization poor."
+        },
+        {
+          "question": "Which symptom is considered a red flag in esophageal disease?",
+          "options": [
+            "Globus sensation",
+            "Heartburn",
+            "Regurgitation",
+            "Odynophagia"
+          ],
+          "correct_index": 3,
+          "explanation": "Odynophagia (painful swallowing) suggests deep inflammation or ulceration and is an alarm symptom."
+        },
+        {
+          "question": "The sensation of a lump in the throat, often anxiety-related, is termed:",
+          "options": [
+            "Dysphagia",
+            "Globus",
+            "Odynophagia",
+            "Water brash"
+          ],
+          "correct_index": 1,
+          "explanation": "Globus pharyngeus is a functional sensation of a lump or tightness in the throat, distinct from dysphagia."
+        },
+        {
+          "question": "Water brash is best described as:",
+          "options": [
+            "Acid regurgitation during sleep",
+            "Sudden vomiting of saliva",
+            "Excessive salivation upon waking",
+            "Painful swallowing"
+          ],
+          "correct_index": 2,
+          "explanation": "Water brash is the sudden appearance of salty fluid (saliva) in the mouth due to a vagal reflex triggered by acid."
+        },
+        {
+          "question": "Which investigation is currently less commonly used for GERD diagnosis?",
+          "options": [
+            "Endoscopy",
+            "Esophageal manometry",
+            "pH monitoring",
+            "Barium swallow"
+          ],
+          "correct_index": 3,
+          "explanation": "Barium swallow has low sensitivity for mild GERD compared to endoscopy and pH monitoring."
+        },
+        {
+          "question": "Esophageal manometry primarily measures:",
+          "options": [
+            "Acid exposure",
+            "Esophageal pressures",
+            "Mucosal inflammation",
+            "Gastric emptying"
+          ],
+          "correct_index": 1,
+          "explanation": "Manometry assesses esophageal motility and sphincter pressure (LES tone)."
+        },
+        {
+          "question": "Ambulatory pH monitoring is used to assess:",
+          "options": [
+            "Esophageal motility",
+            "Structural lesions",
+            "Acid reflux over time",
+            "Bacterial colonization"
+          ],
+          "correct_index": 2,
+          "explanation": "It quantifies the percentage of time esophageal pH is <4, confirming pathologic acid exposure."
+        }
+      ],
+      "GERD": [
+        {
+          "question": "GERD is defined as:",
+          "options": [
+            "Any reflux seen on endoscopy",
+            "Reflux causing symptoms or complications",
+            "Acid exposure on pH monitoring only",
+            "Presence of esophagitis"
+          ],
+          "correct_index": 1,
+          "explanation": "The Montreal definition defines GERD as reflux causing troublesome symptoms and/or complications."
+        },
+        {
+          "question": "Erosive GERD is diagnosed when:",
+          "options": [
+            "Symptoms are severe",
+            "pH monitoring is abnormal",
+            "Inflammation is seen endoscopically or histologically",
+            "Manometry shows hypotension"
+          ],
+          "correct_index": 2,
+          "explanation": "Erosive GERD (ERD) is characterized by visible mucosal breaks or inflammation on endoscopy."
+        },
+        {
+          "question": "The diagnosis of GERD is most often:",
+          "options": [
+            "Endoscopic",
+            "Radiologic",
+            "Histologic",
+            "Clinical"
+          ],
+          "correct_index": 3,
+          "explanation": "In typical cases without alarm features, diagnosis is based on clinical history and response to PPIs."
+        },
+        {
+          "question": "Which finding is an alarm feature prompting gastroscopy?",
+          "options": [
+            "Long-standing heartburn",
+            "Weight loss",
+            "Regurgitation",
+            "Globus sensation"
+          ],
+          "correct_index": 1,
+          "explanation": "Unintentional weight loss is a 'red flag' suggesting malignancy or severe complications."
+        },
+        {
+          "question": "Heartburn severity is graded using which system?",
+          "options": [
+            "Child\u2013Pugh",
+            "Forrest classification",
+            "Los Angeles classification",
+            "Savary\u2013Miller score"
+          ],
+          "correct_index": 2,
+          "explanation": "The Los Angeles (LA) classification is the standard for grading erosive esophagitis severity (A-D)."
+        },
+        {
+          "question": "The most important initial non-pharmacologic intervention for GERD is:",
+          "options": [
+            "Antibiotics",
+            "Lifestyle modification",
+            "Endoscopic therapy",
+            "Surgery"
+          ],
+          "correct_index": 1,
+          "explanation": "Weight loss, head of bed elevation, and dietary changes are first-line interventions."
+        },
+        {
+          "question": "Proton pump inhibitors should be taken:",
+          "options": [
+            "With meals",
+            "At bedtime",
+            "After meals",
+            "30 minutes before meals"
+          ],
+          "correct_index": 3,
+          "explanation": "PPIs require activation by acid pumps, which happens during a meal; taking them prior ensures max effect."
+        },
+        {
+          "question": "Which medication class is less effective in healing GERD?",
+          "options": [
+            "PPIs",
+            "Antacids",
+            "H2 receptor antagonists",
+            "Prokinetics"
+          ],
+          "correct_index": 2,
+          "explanation": "H2 blockers (e.g., Famotidine) are less potent than PPIs for healing erosive esophagitis."
+        },
+        {
+          "question": "Antacids are best described as:",
+          "options": [
+            "Disease-modifying",
+            "Curative",
+            "Anti-inflammatory",
+            "Symptom-relieving only"
+          ],
+          "correct_index": 3,
+          "explanation": "Antacids neutralize existing acid for rapid relief but do not heal inflammation or prevent acid production."
+        },
+        {
+          "question": "Nissen fundoplication involves:",
+          "options": [
+            "Resection of the distal esophagus",
+            "Wrapping the proximal stomach around the distal esophagus",
+            "Partial gastrectomy",
+            "Esophageal dilation"
+          ],
+          "correct_index": 1,
+          "explanation": "This surgical procedure reinforces the lower esophageal sphincter (LES) to prevent reflux."
+        }
+      ]
+    },
+    "Peptic Ulcer Disease": {
+      "Gastric and Duodenal Ulcers": [
+        {
+          "question": "The most common cause of peptic ulcer disease is:",
+          "options": [
+            "NSAIDs",
+            "Stress",
+            "Helicobacter pylori",
+            "Alcohol"
+          ],
+          "correct_index": 2,
+          "explanation": "H. pylori infection is the leading cause, followed by NSAID use."
+        },
+        {
+          "question": "Pain from a gastric ulcer typically:",
+          "options": [
+            "Improves with fasting",
+            "Worsens immediately after eating",
+            "Occurs only at night",
+            "Is relieved by antacids only"
+          ],
+          "correct_index": 1,
+          "explanation": "Eating stimulates acid secretion, which irritates gastric ulcers, causing pain shortly after meals."
+        },
+        {
+          "question": "Pain from a duodenal ulcer is classically:",
+          "options": [
+            "Worse after meals",
+            "Unrelated to food",
+            "Worse with exertion",
+            "Worse during fasting and relieved by eating"
+          ],
+          "correct_index": 3,
+          "explanation": "Duodenal ulcers cause 'hunger pain' when the stomach is empty, which is relieved by food buffering the acid."
+        },
+        {
+          "question": "The gold standard for diagnosing peptic ulcer disease is:",
+          "options": [
+            "CT scan",
+            "Endoscopy",
+            "Barium swallow",
+            "pH monitoring"
+          ],
+          "correct_index": 1,
+          "explanation": "Upper endoscopy (EGD) allows direct visualization and biopsy of ulcers."
+        },
+        {
+          "question": "Low-risk patients with dyspepsia should initially receive:",
+          "options": [
+            "Immediate gastroscopy",
+            "Surgery",
+            "Empiric PPI and H. pylori testing",
+            "Chemotherapy"
+          ],
+          "correct_index": 2,
+          "explanation": "The 'Test and Treat' strategy avoids invasive procedures in young patients without alarm features."
+        },
+        {
+          "question": "High-risk patients should be managed initially with:",
+          "options": [
+            "Observation",
+            "H. pylori serology only",
+            "Empiric antacids",
+            "Gastroscopy"
+          ],
+          "correct_index": 3,
+          "explanation": "Patients with alarm features (weight loss, dysphagia, anemia, age >55) need endoscopy to rule out cancer."
+        },
+        {
+          "question": "Which is a recognized complication of peptic ulcer disease?",
+          "options": [
+            "Ascites",
+            "Pancreatitis",
+            "Bleeding",
+            "Portal hypertension"
+          ],
+          "correct_index": 2,
+          "explanation": "Hemorrhage is the most common complication of PUD, followed by perforation and obstruction."
+        },
+        {
+          "question": "Which test detects labeled urea breakdown products?",
+          "options": [
+            "Serology",
+            "Stool antigen",
+            "Urea breath test",
+            "Biopsy culture"
+          ],
+          "correct_index": 2,
+          "explanation": "The Urea Breath Test measures labeled CO2 exhaled after H. pylori urease splits ingested labeled urea."
+        },
+        {
+          "question": "Which H. pylori test is performed using blood?",
+          "options": [
+            "Stool antigen",
+            "Breath test",
+            "Rapid urease test",
+            "Serology"
+          ],
+          "correct_index": 3,
+          "explanation": "Serology detects IgG antibodies in the blood but cannot distinguish between active and past infection."
+        },
+        {
+          "question": "Standard H. pylori eradication therapy includes:",
+          "options": [
+            "One antibiotic + antacid",
+            "PPI alone",
+            "Two to three antibiotics plus PPI",
+            "Steroids"
+          ],
+          "correct_index": 2,
+          "explanation": "Combination therapy (e.g., Clarithromycin + Amoxicillin/Metronidazole + PPI) is needed to overcome resistance."
+        },
+        {
+          "question": "After diagnosing an ulcer endoscopically, follow-up gastroscopy is performed to:",
+          "options": [
+            "Stage cancer",
+            "Measure acid output",
+            "Detect H. pylori",
+            "Confirm ulcer healing"
+          ],
+          "correct_index": 3,
+          "explanation": "Follow-up endoscopy is crucial, especially for gastric ulcers, to document healing and rule out malignancy."
+        }
+      ]
+    }
+  }
+}, 
+"Inflammatory Bowel Disorders": {
+  "description": "IBS, Celiac Disease, and IBD (Crohn's & Ulcerative Colitis)",
+  "content": {
+    "Irritable Bowel Syndrome (IBS)": {
+      "General & Diagnosis": [
+        {
+          "question": "Diagnosis of IBS is based primarily on:",
+          "options": [
+            "Endoscopy",
+            "Imaging",
+            "Rome IV clinical criteria",
+            "Stool cultures"
+          ],
+          "correct_index": 2,
+          "explanation": "IBS is a functional disorder diagnosed by symptom-based criteria (Rome IV), not by structural markers."
+        },
+        {
+          "question": "IBS belongs to which broader disease group?",
+          "options": [
+            "Autoimmune diseases",
+            "Disorders of gut\u2013brain interaction",
+            "Infectious GI diseases",
+            "Structural bowel disorders"
+          ],
+          "correct_index": 1,
+          "explanation": "IBS is classified as a Disorder of Gut-Brain Interaction (DGBI), formerly known as functional GI disorders."
+        },
+        {
+          "question": "Abdominal pain in IBS is:",
+          "options": [
+            "Optional for diagnosis",
+            "Required for diagnosis",
+            "Rare",
+            "Always nocturnal"
+          ],
+          "correct_index": 1,
+          "explanation": "According to Rome IV, recurrent abdominal pain related to defecation is mandatory for the diagnosis."
+        },
+        {
+          "question": "Approximately what proportion of the population suffers from IBS?",
+          "options": [
+            "5%",
+            "10%",
+            "20%",
+            "40%"
+          ],
+          "correct_index": 2,
+          "explanation": "IBS is very common, affecting approximately 10-20% of the global population."
+        },
+        {
+          "question": "IBS is more common in:",
+          "options": [
+            "Men",
+            "Children",
+            "Elderly patients",
+            "Women"
+          ],
+          "correct_index": 3,
+          "explanation": "There is a female predominance in IBS (approx 2:1 female-to-male ratio)."
+        },
+        {
+          "question": "Which condition may precede post-infectious IBS?",
+          "options": [
+            "Antibiotic therapy",
+            "Severe gastroenteritis",
+            "Appendicitis",
+            "Celiac disease"
+          ],
+          "correct_index": 1,
+          "explanation": "Post-infectious IBS (PI-IBS) develops after an episode of acute gastroenteritis (bacterial or viral)."
+        },
+        {
+          "question": "Roughly what percentage of patients develop IBS after severe gastroenteritis?",
+          "options": [
+            "5%",
+            "10%",
+            "25%",
+            "50%"
+          ],
+          "correct_index": 2,
+          "explanation": "Approximately 10-30% of patients will have persistent symptoms consistent with IBS after an acute infection."
+        },
+        {
+          "question": "Normal fecal calprotectin and CRP help:",
+          "options": [
+            "Diagnose Crohn\u2019s disease",
+            "Confirm ulcerative colitis",
+            "Exclude IBD and support IBS",
+            "Diagnose infection"
+          ],
+          "correct_index": 2,
+          "explanation": "Normal inflammatory markers (Calprotectin/CRP) strongly argue against IBD, supporting a diagnosis of IBS."
+        },
+        {
+          "question": "The hallmark dietary intervention for IBS is:",
+          "options": [
+            "Gluten-free diet",
+            "Low-fat diet",
+            "Ketogenic diet",
+            "FODMAP elimination diet"
+          ],
+          "correct_index": 3,
+          "explanation": "The low-FODMAP diet reduces fermentable carbohydrates that trigger gas and bloating in IBS."
+        },
+        {
+          "question": "Which antibiotic has proven efficacy in IBS?",
+          "options": [
+            "Ciprofloxacin",
+            "Metronidazole",
+            "Rifaximin",
+            "Vancomycin"
+          ],
+          "correct_index": 2,
+          "explanation": "Rifaximin is a non-absorbable antibiotic used to treat IBS-D (Diarrhea) and SIBO."
+        }
+      ]
+    },
+    "Celiac Disease": {
+      "Diagnosis": [
+        {
+          "question": "The gold standard for diagnosing celiac disease is:",
+          "options": [
+            "Serology",
+            "HLA typing",
+            "Duodenal biopsy",
+            "Stool testing"
+          ],
+          "correct_index": 2,
+          "explanation": "While serology screens for it, duodenal biopsy showing villous atrophy is required for definitive diagnosis."
+        },
+        {
+          "question": "All symptoms of celiac disease are primarily due to:",
+          "options": [
+            "Autoimmune vasculitis",
+            "Chronic inflammation",
+            "Infection",
+            "Malabsorption"
+          ],
+          "correct_index": 3,
+          "explanation": "Mucosal damage leads to malabsorption of nutrients, causing diarrhea, weight loss, and deficiencies."
+        },
+        {
+          "question": "Which immunoglobulin is most relevant in celiac serology?",
+          "options": [
+            "IgM",
+            "IgE",
+            "IgA",
+            "IgD"
+          ],
+          "correct_index": 2,
+          "explanation": "IgA-based antibodies (anti-tTG IgA) are the standard screening tests."
+        },
+        {
+          "question": "If a patient has IgA deficiency, which antibodies should be checked?",
+          "options": [
+            "IgM",
+            "IgG-based antibodies",
+            "IgE",
+            "IgD"
+          ],
+          "correct_index": 1,
+          "explanation": "In IgA-deficient patients (who can't produce IgA-tTG), IgG-based tests (e.g., IgG-DGP) are used."
+        },
+        {
+          "question": "The most sensitive serologic test for celiac disease is:",
+          "options": [
+            "Anti-EMA",
+            "Anti-DGP",
+            "Anti-tTG",
+            "Anti-gliadin"
+          ],
+          "correct_index": 2,
+          "explanation": "Anti-tissue Transglutaminase (anti-tTG) IgA is the preferred initial screening test (high sensitivity)."
+        },
+        {
+          "question": "Which celiac antibody test is expensive and used only when necessary?",
+          "options": [
+            "Anti-tTG",
+            "Anti-DGP",
+            "Anti-EMA",
+            "Anti-IgA"
+          ],
+          "correct_index": 2,
+          "explanation": "Anti-Endomysial Antibody (EMA) is highly specific but labor-intensive and expensive."
+        },
+        {
+          "question": "Which HLA types are present in all patients with celiac disease?",
+          "options": [
+            "HLA-B27",
+            "HLA-A2",
+            "HLA-DQ2 or DQ8",
+            "HLA-DR4"
+          ],
+          "correct_index": 2,
+          "explanation": "Virtually all Celiac patients carry HLA-DQ2 or HLA-DQ8; absence of these effectively rules out the disease."
+        },
+        {
+          "question": "Why is HLA typing alone insufficient for diagnosing celiac disease?",
+          "options": [
+            "It is not sensitive",
+            "It is expensive",
+            "It appears only late",
+            "It can be present in healthy individuals"
+          ],
+          "correct_index": 3,
+          "explanation": "About 30-40% of the general population has these HLA types, but only a fraction develop Celiac."
+        },
+        {
+          "question": "Why are multiple duodenal biopsies required?",
+          "options": [
+            "Risk of bleeding",
+            "Disease is patchy",
+            "Improve serology",
+            "Reduce cost"
+          ],
+          "correct_index": 1,
+          "explanation": "Celiac enteropathy can be patchy, so multiple samples (bulb and distal duodenum) increase diagnostic yield."
+        },
+        {
+          "question": "Which histologic finding is typical of celiac disease?",
+          "options": [
+            "Crypt loss",
+            "Villous atrophy",
+            "Granulomas",
+            "Transmural inflammation"
+          ],
+          "correct_index": 1,
+          "explanation": "Blunting or total loss of intestinal villi (Villous Atrophy) is the hallmark histologic lesion."
+        },
+        {
+          "question": "Another classic biopsy finding in celiac disease is:",
+          "options": [
+            "Goblet cell depletion",
+            "Submucosal fibrosis",
+            "Crypt hyperplasia",
+            "Vasculitis"
+          ],
+          "correct_index": 2,
+          "explanation": "Compensatory deepening of the crypts (Crypt Hyperplasia) accompanies villous atrophy."
+        },
+        {
+          "question": "Which immune cells typically infiltrate the mucosa in celiac disease?",
+          "options": [
+            "Neutrophils",
+            "Eosinophils",
+            "Plasma cells",
+            "Mononuclear cells"
+          ],
+          "correct_index": 3,
+          "explanation": "Increased Intra-Epithelial Lymphocytes (IELs), which are mononuclear cells, are an early sign."
+        }
+      ],
+      "Clinical & Complications": [
+        {
+          "question": "Which GI symptom may appear in celiac disease?",
+          "options": [
+            "Constipation only",
+            "Abdominal pain",
+            "Hematemesis",
+            "Dysphagia"
+          ],
+          "correct_index": 1,
+          "explanation": "Abdominal pain, bloating, and diarrhea are classic, though constipation can also occur."
+        },
+        {
+          "question": "Which is an extraintestinal manifestation of celiac disease?",
+          "options": [
+            "Ascites",
+            "Fatigue",
+            "Jaundice",
+            "Portal hypertension"
+          ],
+          "correct_index": 1,
+          "explanation": "Fatigue and anemia are very common non-GI presentations."
+        },
+        {
+          "question": "Growth delay in children with celiac disease results from:",
+          "options": [
+            "Chronic infection",
+            "Endocrine dysfunction",
+            "Malabsorption",
+            "Genetic factors"
+          ],
+          "correct_index": 2,
+          "explanation": "Failure to thrive is a direct consequence of nutrient malabsorption."
+        },
+        {
+          "question": "Which bone-related complication may occur in celiac disease?",
+          "options": [
+            "Osteomyelitis",
+            "Osteoporosis",
+            "Osteosarcoma",
+            "Paget disease"
+          ],
+          "correct_index": 1,
+          "explanation": "Malabsorption of Vitamin D and Calcium leads to osteopenia and osteoporosis."
+        },
+        {
+          "question": "Bleeding tendency in celiac disease is most likely due to:",
+          "options": [
+            "Platelet dysfunction",
+            "Vitamin deficiencies",
+            "Portal hypertension",
+            "Autoimmune vasculitis"
+          ],
+          "correct_index": 1,
+          "explanation": "Vitamin K malabsorption (fat-soluble) can lead to coagulopathy."
+        },
+        {
+          "question": "The major long-term malignancy risk in celiac disease is:",
+          "options": [
+            "Colon cancer",
+            "Gastric cancer",
+            "Enteropathy-associated T-cell lymphoma",
+            "Pancreatic cancer"
+          ],
+          "correct_index": 2,
+          "explanation": "EATL (Enteropathy-Associated T-cell Lymphoma) is a rare but serious complication of untreated Celiac."
+        },
+        {
+          "question": "This malignancy usually appears:",
+          "options": [
+            "Early in childhood",
+            "Immediately after diagnosis",
+            "After years of disease",
+            "Only with treatment failure"
+          ],
+          "correct_index": 2,
+          "explanation": "EATL typically develops after decades of disease, often in patients with poor dietary compliance."
+        },
+        {
+          "question": "The cornerstone of celiac disease treatment is:",
+          "options": [
+            "Steroids",
+            "Immunosuppressants",
+            "Antibiotics",
+            "Gluten avoidance"
+          ],
+          "correct_index": 3,
+          "explanation": "A strict, lifelong Gluten-Free Diet (GFD) is the only effective treatment."
+        },
+        {
+          "question": "Patient education in celiac disease should include discussion of:",
+          "options": [
+            "IBS risk",
+            "Liver disease",
+            "Small bowel cancer risk",
+            "Colonoscopy intervals"
+          ],
+          "correct_index": 2,
+          "explanation": "Patients must understand the cancer risk associated with non-compliance."
+        },
+        {
+          "question": "Vitamin supplementation in celiac disease is recommended:",
+          "options": [
+            "Routinely for all",
+            "Only during childhood",
+            "Only if deficiencies are present",
+            "Never"
+          ],
+          "correct_index": 2,
+          "explanation": "Supplementation is tailored to replace specific deficiencies (Iron, B12, D) identified at diagnosis."
+        }
+      ]
+    },
+    "Inflammatory Bowel Disease (IBD)": {
+      "General & Pathophysiology": [
+        {
+          "question": "Which environmental factor is associated with IBD risk?",
+          "options": [
+            "Low fiber intake",
+            "Air pollution",
+            "Alcohol",
+            "Gluten"
+          ],
+          "correct_index": 1,
+          "explanation": "Urbanization and industrialization (including air pollution) are linked to rising IBD incidence."
+        },
+        {
+          "question": "IBD patients are characterized by:",
+          "options": [
+            "Weak immune response",
+            "Normal immunity",
+            "Exaggerated immune response",
+            "Infectious etiology"
+          ],
+          "correct_index": 2,
+          "explanation": "IBD involves an inappropriate, unregulated immune response to commensal gut bacteria."
+        }
+      ],
+      "Ulcerative Colitis (UC)": [
+        {
+          "question": "Ulcerative colitis always begins in the:",
+          "options": [
+            "Ileum",
+            "Cecum",
+            "Rectum",
+            "Ascending colon"
+          ],
+          "correct_index": 2,
+          "explanation": "UC invariably involves the rectum (proctitis) and extends proximally."
+        },
+        {
+          "question": "Which layer is primarily involved in ulcerative colitis?",
+          "options": [
+            "Serosa",
+            "Muscularis",
+            "Transmural",
+            "Mucosa"
+          ],
+          "correct_index": 3,
+          "explanation": "UC is limited to the mucosal (and superficial submucosal) layer, unlike Crohn's."
+        },
+        {
+          "question": "Which factor is protective against UC flares?",
+          "options": [
+            "Alcohol",
+            "NSAIDs",
+            "Smoking",
+            "Antibiotics"
+          ],
+          "correct_index": 2,
+          "explanation": "Smoking is paradoxically protective in UC (unlike in Crohn's where it is harmful)."
+        },
+        {
+          "question": "The only curative treatment for ulcerative colitis is:",
+          "options": [
+            "Biologics",
+            "Steroids",
+            "Antibiotics",
+            "Total colectomy"
+          ],
+          "correct_index": 3,
+          "explanation": "Proctocolectomy (removal of the entire colon and rectum) is curative for the colonic disease."
+        }
+      ],
+      "Crohn's Disease": [
+        {
+          "question": "Crohn\u2019s disease most commonly affects the:",
+          "options": [
+            "Rectum",
+            "Terminal ileum",
+            "Duodenum",
+            "Esophagus"
+          ],
+          "correct_index": 1,
+          "explanation": "The terminal ileum is the most frequently involved site (ileocolitis)."
+        },
+        {
+          "question": "A hallmark of Crohn\u2019s disease is:",
+          "options": [
+            "Continuous inflammation",
+            "Skip lesions",
+            "Mucosal-only disease",
+            "Rectal-only disease"
+          ],
+          "correct_index": 1,
+          "explanation": "Discontinuous areas of inflammation ('skip lesions') with normal intervening bowel are characteristic."
+        },
+        {
+          "question": "Smoking has what effect on Crohn\u2019s disease?",
+          "options": [
+            "Protective",
+            "No effect",
+            "Improves remission",
+            "Worsens disease"
+          ],
+          "correct_index": 3,
+          "explanation": "Smoking increases the risk of developing Crohn's and worsens its course."
+        },
+        {
+          "question": "Which finding suggests perianal Crohn\u2019s disease?",
+          "options": [
+            "Hemorrhoids",
+            "Multiple perianal skin tags",
+            "Anal fissure healing",
+            "Rectal prolapse"
+          ],
+          "correct_index": 1,
+          "explanation": "Complex perianal disease (fistulas, abscesses, tags) is common in Crohn's."
+        }
+      ],
+      "Complications & Treatment": [
+        {
+          "question": "Which skin condition is associated with IBD?",
+          "options": [
+            "Psoriasis",
+            "Vitiligo",
+            "Erythema nodosum",
+            "Melanoma"
+          ],
+          "correct_index": 2,
+          "explanation": "Erythema Nodosum (painful red nodules on shins)  is the most common cutaneous manifestation."
+        },
+        {
+          "question": "Which joint involvement is emphasized in IBD?",
+          "options": [
+            "Septic arthritis",
+            "Degenerative arthritis",
+            "Inflammatory arthritis",
+            "Crystal arthropathy"
+          ],
+          "correct_index": 2,
+          "explanation": "Enteropathic arthritis (spondyloarthropathy) is an inflammatory arthritis associated with IBD."
+        },
+        {
+          "question": "Primary sclerosing cholangitis is more commonly associated with:",
+          "options": [
+            "Crohn\u2019s disease",
+            "IBS",
+            "Celiac disease",
+            "Ulcerative colitis"
+          ],
+          "correct_index": 3,
+          "explanation": "About 70-80% of patients with PSC have underlying IBD, most commonly Ulcerative Colitis."
+        },
+        {
+          "question": "The primary goal of IBD therapy is to:",
+          "options": [
+            "Cure the disease",
+            "Eliminate symptoms only",
+            "Achieve remission and mucosal healing",
+            "Prevent infection"
+          ],
+          "correct_index": 2,
+          "explanation": "Modern goals ('Treat to Target') aim for deep remission, including endoscopic mucosal healing."
+        },
+        {
+          "question": "Which drug class is most effective in IBD?",
+          "options": [
+            "Aminosalicylates",
+            "Thiopurines",
+            "Corticosteroids",
+            "Antibiotics"
+          ],
+          "correct_index": 2,
+          "explanation": "Steroids (e.g., Prednisone) are highly effective for inducing remission in acute flares (but not maintenance)."
+        },
+        {
+          "question": "Budesonide is considered safer because:",
+          "options": [
+            "It is non-steroidal",
+            "It has high first-pass metabolism",
+            "It is gut-selective biologic",
+            "It does not suppress immunity"
+          ],
+          "correct_index": 1,
+          "explanation": "Budesonide acts locally in the gut and is extensively metabolized by the liver, reducing systemic side effects."
+        },
+        {
+          "question": "Vedolizumab works by:",
+          "options": [
+            "Blocking TNF-alpha",
+            "Inhibiting IL-12/23",
+            "Blocking integrins",
+            "Inhibiting JAK-STAT"
+          ],
+          "correct_index": 2,
+          "explanation": "Vedolizumab is a gut-selective integrin antagonist that blocks lymphocyte trafficking to the gut."
+        },
+        {
+          "question": "Modern IBD treatment strategy emphasizes treating based on:",
+          "options": [
+            "Patient symptoms alone",
+            "Lab results only",
+            "Endoscopic appearance only",
+            "Degree of inflammation"
+          ],
+          "correct_index": 3,
+          "explanation": "Treatment is escalated based on objective markers of inflammation (CRP, Calprotectin, Endoscopy) rather than just symptoms."
+        }
+      ]
+    }
+  }
+},
+
+"Pancreas": {
+  "description": "Pancreatic Cancer, Cystic Tumors, and Pancreatitis",
+  "content": {
+    "Pancreatic Cancer": {
+      "Pancreatic Cancer": [
+        {
+          "question": "At the time of diagnosis, approximately 50% of pancreatic cancer patients are already in:",
+          "options": [
+            "Stage IV",
+            "Stage I",
+            "Stage II",
+            "Stage III"
+          ],
+          "correct_index": 0,
+          "explanation": "Due to the lack of early symptoms, about 50% of patients present with metastatic (Stage IV) disease."
+        },
+        {
+          "question": "Which hereditary mutation increases the risk of pancreatic cancer about fourfold?",
+          "options": [
+            "BRCA",
+            "APC",
+            "MEN1",
+            "MMR"
+          ],
+          "correct_index": 0,
+          "explanation": "Germline BRCA1/2 mutations significantly increase the risk of developing pancreatic adenocarcinoma."
+        },
+        {
+          "question": "Which of the following is a recognized risk factor for pancreatic cancer?",
+          "options": [
+            "Ulcerative colitis",
+            "Celiac disease",
+            "Type 2 diabetes",
+            "IBS"
+          ],
+          "correct_index": 2,
+          "explanation": "Long-standing Type 2 Diabetes is a well-established risk factor (and new-onset diabetes can be an early sign)."
+        },
+        {
+          "question": "Most pancreatic cancers originate in the:",
+          "options": [
+            "Tail of the pancreas",
+            "Body of the pancreas",
+            "Head of the pancreas",
+            "Entire pancreas equally"
+          ],
+          "correct_index": 2,
+          "explanation": "Approximately 60-70% of tumors arise in the pancreatic head, often causing painless jaundice."
+        },
+        {
+          "question": "A characteristic pathological feature of pancreatic cancer is that the tumor is composed mainly of:",
+          "options": [
+            "Malignant epithelial cells",
+            "Necrotic tissue",
+            "Inflammatory infiltrates",
+            "Dense connective (desmoplastic) tissue"
+          ],
+          "correct_index": 3,
+          "explanation": "Pancreatic cancer is known for its intense desmoplastic stromal reaction, which makes drug delivery difficult."
+        },
+        {
+          "question": "The earliest and most common mutation in pancreatic cancer involves:",
+          "options": [
+            "KRAS",
+            "TP53",
+            "APC",
+            "BRCA"
+          ],
+          "correct_index": 0,
+          "explanation": "KRAS mutations are the earliest genetic event, found in >90% of pancreatic intraepithelial neoplasias (PanINs)."
+        },
+        {
+          "question": "KRAS mutations are present in approximately what percentage of pancreatic cancers?",
+          "options": [
+            "40%",
+            "60%",
+            "75%",
+            "90%"
+          ],
+          "correct_index": 3,
+          "explanation": "KRAS is the most frequent mutation, present in over 90% of pancreatic ductal adenocarcinomas."
+        },
+        {
+          "question": "Symptoms of pancreatic cancer typically appear late because the pancreas is:",
+          "options": [
+            "Poorly innervated",
+            "Retroperitoneal",
+            "Endocrine-dominant",
+            "Hypovascular"
+          ],
+          "correct_index": 1,
+          "explanation": "Its deep retroperitoneal location allows tumors to grow significantly before compressing organs or causing pain."
+        },
+        {
+          "question": "Obstruction of the bile ducts due to pancreatic cancer most commonly causes:",
+          "options": [
+            "Ascites",
+            "Hematemesis",
+            "Pale stools and dark urine",
+            "Steatorrhea"
+          ],
+          "correct_index": 2,
+          "explanation": "Biliary obstruction leads to conjugated hyperbilirubinemia (dark urine) and lack of bile in stool (pale/acholic stools)."
+        },
+        {
+          "question": "Pain associated with pancreatic cancer is classically described as:",
+          "options": [
+            "Colicky abdominal pain",
+            "Sharp pleuritic pain",
+            "Belt-like back pain",
+            "Localized right upper quadrant pain"
+          ],
+          "correct_index": 2,
+          "explanation": "Pain often radiates from the epigastrium to the back in a belt-like distribution."
+        },
+        {
+          "question": "Which tumor marker is associated with pancreatic cancer?",
+          "options": [
+            "AFP",
+            "PSA",
+            "CA 19-9",
+            "CEA"
+          ],
+          "correct_index": 2,
+          "explanation": "CA 19-9 is the primary biomarker used for monitoring response to therapy and recurrence."
+        },
+        {
+          "question": "The imaging modality of choice for detecting a pancreatic mass is:",
+          "options": [
+            "Ultrasound",
+            "CT scan",
+            "ERCP",
+            "Plain abdominal X-ray"
+          ],
+          "correct_index": 1,
+          "explanation": "Multiphase pancreatic protocol CT is the gold standard for diagnosis and staging."
+        },
+        {
+          "question": "Which invasive diagnostic test involves injection of contrast into the pancreatic ducts?",
+          "options": [
+            "MRCP",
+            "CT scan",
+            "EUS",
+            "ERCP"
+          ],
+          "correct_index": 3,
+          "explanation": "Endoscopic Retrograde Cholangiopancreatography (ERCP) involves cannulating the ducts and injecting contrast."
+        },
+        {
+          "question": "Which procedure combines endoscopy with ultrasound imaging?",
+          "options": [
+            "CT",
+            "ERCP",
+            "EUS",
+            "MRCP"
+          ],
+          "correct_index": 2,
+          "explanation": "Endoscopic Ultrasound (EUS) allows high-resolution imaging and biopsy (FNA) of pancreatic lesions."
+        },
+        {
+          "question": "The only curative treatment option for pancreatic cancer is:",
+          "options": [
+            "Chemotherapy",
+            "Radiotherapy",
+            "Surgical resection",
+            "Immunotherapy"
+          ],
+          "correct_index": 2,
+          "explanation": "Complete surgical resection (R0) offers the only potential for cure."
+        },
+        {
+          "question": "Which structure is NOT removed during a Whipple procedure?",
+          "options": [
+            "Pancreatic head",
+            "Duodenum",
+            "Gallbladder",
+            "Spleen"
+          ],
+          "correct_index": 3,
+          "explanation": "The Whipple procedure (pancreaticoduodenectomy) removes the head of pancreas, duodenum, gallbladder, and distal bile duct. The spleen is preserved."
+        },
+        {
+          "question": "Patients with metastatic pancreatic cancer are generally:",
+          "options": [
+            "Treated surgically",
+            "Eligible for curative surgery",
+            "Not candidates for surgery",
+            "Treated with Whipple procedure"
+          ],
+          "correct_index": 2,
+          "explanation": "Surgery is contraindicated in metastatic disease as it does not improve survival."
+        },
+        {
+          "question": "Adjuvant FOLFIRINOX after surgery:",
+          "options": [
+            "Improves survival but is difficult to tolerate",
+            "Replaces surgical treatment",
+            "Is ineffective",
+            "Is used only before surgery"
+          ],
+          "correct_index": 0,
+          "explanation": "FOLFIRINOX significantly improves survival compared to Gemcitabine but has higher toxicity."
+        }
+      ],
+      "Cystic Tumors": [
+        {
+          "question": "Pancreatic cystic tumors are increasingly detected due to:",
+          "options": [
+            "Screening blood tests",
+            "Symptomatic presentation",
+            "Advanced imaging techniques",
+            "Endoscopic screening"
+          ],
+          "correct_index": 2,
+          "explanation": "Widespread use of high-quality CT and MRI has led to incidental detection of many cystic lesions."
+        },
+        {
+          "question": "Mucinous cystic neoplasms are most commonly found in the:",
+          "options": [
+            "Head of the pancreas",
+            "Body of the pancreas",
+            "Tail of the pancreas",
+            "Duodenum"
+          ],
+          "correct_index": 2,
+          "explanation": "Mucinous Cystic Neoplasms (MCNs) are almost exclusively found in the body and tail of the pancreas in women."
+        },
+        {
+          "question": "Early-detected mucinous cystic neoplasms have a survival rate of approximately:",
+          "options": [
+            "60%",
+            "80%",
+            "90%",
+            "100%"
+          ],
+          "correct_index": 3,
+          "explanation": "If resected before malignant transformation, the cure rate is nearly 100%."
+        },
+        {
+          "question": "If dysplasia is present in mucinous cystic neoplasms, survival decreases to about:",
+          "options": [
+            "30%",
+            "40%",
+            "60%",
+            "85%"
+          ],
+          "correct_index": 2,
+          "explanation": "The presence of invasive carcinoma or high-grade dysplasia significantly drops survival rates."
+        },
+        {
+          "question": "Serous cystic neoplasms of the pancreas are generally:",
+          "options": [
+            "Highly malignant",
+            "Premalignant",
+            "Benign",
+            "Metastatic"
+          ],
+          "correct_index": 2,
+          "explanation": "Serous cystadenomas are benign lesions with virtually no malignant potential."
+        },
+        {
+          "question": "A \u201choneycomb\u201d appearance on imaging is typical of:",
+          "options": [
+            "Mucinous cystic neoplasms",
+            "Pancreatic pseudocysts",
+            "Serous cystic neoplasms",
+            "Pancreatic adenocarcinoma"
+          ],
+          "correct_index": 2,
+          "explanation": "The microcystic variety of serous cystadenoma has a characteristic honeycomb pattern with a central scar."
+        }
+      ]
+    },
+    "Pancreatitis": {
+      "Pancreatitis": [
+        {
+          "question": "Chronic pancreatitis primarily affects the:",
+          "options": [
+            "Exocrine pancreas",
+            "Endocrine pancreas",
+            "Pancreatic vessels",
+            "Pancreatic ducts only"
+          ],
+          "correct_index": 0,
+          "explanation": "The disease begins with inflammation and fibrosis of the exocrine tissue, though endocrine function is lost later."
+        },
+        {
+          "question": "Chronic pancreatitis is defined by:",
+          "options": [
+            "Reversible pancreatic changes",
+            "Irreversible structural changes",
+            "Acute inflammation only",
+            "Isolated endocrine failure"
+          ],
+          "correct_index": 1,
+          "explanation": "It is a progressive inflammatory process leading to permanent structural damage and fibrosis."
+        },
+        {
+          "question": "The two hallmark clinical features of chronic pancreatitis are:",
+          "options": [
+            "Jaundice and fever",
+            "Pain and steatorrhea",
+            "Vomiting and anemia",
+            "Diarrhea and weight gain"
+          ],
+          "correct_index": 1,
+          "explanation": "Chronic abdominal pain and exocrine insufficiency (manifesting as fatty stool/steatorrhea) are classic."
+        },
+        {
+          "question": "The most common cause of chronic pancreatitis is:",
+          "options": [
+            "Alcohol use",
+            "Autoimmune disease",
+            "Hypercalcemia",
+            "Genetic mutations"
+          ],
+          "correct_index": 0,
+          "explanation": "Chronic alcohol consumption is the leading cause (approx 70% of cases) in Western countries."
+        },
+        {
+          "question": "Which stool test is most useful for evaluating chronic pancreatitis?",
+          "options": [
+            "Calprotectin",
+            "Elastase-1",
+            "Occult blood",
+            "Alpha-fetoprotein"
+          ],
+          "correct_index": 1,
+          "explanation": "Fecal Elastase-1 is the most sensitive and specific test for pancreatic exocrine insufficiency."
+        },
+        {
+          "question": "The current imaging modality of choice for diagnosing chronic pancreatitis is:",
+          "options": [
+            "CT",
+            "ERCP",
+            "MRCP",
+            "EUS"
+          ],
+          "correct_index": 3,
+          "explanation": "Endoscopic Ultrasound (EUS) is the most sensitive test for detecting early changes of chronic pancreatitis."
+        },
+        {
+          "question": "A vascular complication associated with chronic pancreatitis is:",
+          "options": [
+            "Portal vein thrombosis",
+            "Splenic vein thrombosis",
+            "Hepatic vein thrombosis",
+            "Mesenteric ischemia"
+          ],
+          "correct_index": 1,
+          "explanation": "Inflammation near the splenic vein can cause thrombosis, leading to gastric varices."
+        },
+        {
+          "question": "Which local complication may develop in chronic pancreatitis?",
+          "options": [
+            "Cirrhosis",
+            "Ascites",
+            "Pancreatic pseudocyst",
+            "Varices"
+          ],
+          "correct_index": 2,
+          "explanation": "Pseudocysts (fluid collections rich in enzymes) are a common complication of both acute and chronic pancreatitis."
+        },
+        {
+          "question": "Chronic pancreatitis increases the risk of developing:",
+          "options": [
+            "Gastric cancer",
+            "Colorectal cancer",
+            "Pancreatic cancer",
+            "Liver cancer"
+          ],
+          "correct_index": 2,
+          "explanation": "Long-standing inflammation is a significant risk factor for pancreatic adenocarcinoma."
+        },
+        {
+          "question": "A central principle in managing chronic pancreatitis is:",
+          "options": [
+            "Curative pharmacologic therapy",
+            "Pancreatic enzyme replacement",
+            "Long-term antibiotics",
+            "Immunosuppression"
+          ],
+          "correct_index": 1,
+          "explanation": "Enzyme replacement therapy (PERT) treats malabsorption and malnutrition."
+        },
+        {
+          "question": "Pancreatic enzyme replacement mainly improves:",
+          "options": [
+            "Pain control",
+            "Glycemic control",
+            "Fat-soluble vitamin absorption",
+            "Inflammatory markers"
+          ],
+          "correct_index": 2,
+          "explanation": "By enabling fat digestion, PERT improves the absorption of fat-soluble vitamins (A, D, E, K)."
+        },
+        {
+          "question": "Which statement best summarizes chronic pancreatitis treatment?",
+          "options": [
+            "There is no curative therapy; management is supportive",
+            "Steroids reverse disease progression",
+            "Surgery cures the disease",
+            "Antibiotics resolve inflammation"
+          ],
+          "correct_index": 0,
+          "explanation": "Treatment focuses on symptom control (pain, digestion) and managing complications, as damage is irreversible."
+        },
+        {
+          "question": "Acute pancreatitis in this context represents:",
+          "options": [
+            "A completely separate disease",
+            "End-stage chronic pancreatitis",
+            "A flare on the spectrum of chronic pancreatitis",
+            "A purely endocrine disorder"
+          ],
+          "correct_index": 2,
+          "explanation": "Recurrent acute pancreatitis is often the precursor to, or an exacerbation of, chronic pancreatitis."
+        },
+        {
+          "question": "Which enzyme is typically elevated in pancreatitis?",
+          "options": [
+            "ALT",
+            "Amylase",
+            "ALP",
+            "GGT"
+          ],
+          "correct_index": 1,
+          "explanation": "Amylase and Lipase are the standard biomarkers for acute pancreatic inflammation."
+        },
+        {
+          "question": "Which MRI-based technique allows non-invasive pancreatic duct imaging?",
+          "options": [
+            "ERCP",
+            "CT",
+            "MRCP",
+            "Angiography"
+          ],
+          "correct_index": 2,
+          "explanation": "MRCP (Magnetic Resonance Cholangiopancreatography) visualizes the ducts without instrumentation."
+        },
+        {
+          "question": "General management of acute pancreatitis includes:",
+          "options": [
+            "Immediate surgery",
+            "Routine antibiotics",
+            "Fasting and supportive care",
+            "Corticosteroids"
+          ],
+          "correct_index": 2,
+          "explanation": "Initial management is conservative: bowel rest (NPO), aggressive IV fluids, and pain control."
+        }
+      ]
+    }
+  }
+}
+  }
+}
+      
+    }
+  }
+}
