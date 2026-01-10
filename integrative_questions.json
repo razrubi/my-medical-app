@@ -5192,8 +5192,352 @@
             }
           ]
         }
+
+       
+
+
       }
+    },
+
+    "Antibiotics": {
+  "description": "Mechanisms, Spectrum, Side Effects, and Clinical Pearls",
+  "content": {
+    "Clinical Pharmacology": {
+      "General Antibiotics": [
+        {
+          "question": "Which antibiotic class is associated with QT interval prolongation?",
+          "options": [
+            "Aminoglycosides",
+            "Macrolides",
+            "Carbapenems",
+            "Beta-lactams"
+          ],
+          "correct_index": 1,
+          "explanation": "Macrolides (e.g., Azithromycin, Clarithromycin) and Fluoroquinolones are well-known causes of QT prolongation."
+        },
+        {
+          "question": "Which antibiotic cannot be used to treat pneumonia because it is inactivated by surfactant?",
+          "options": [
+            "Linezolid",
+            "Vancomycin",
+            "Daptomycin",
+            "Clindamycin"
+          ],
+          "correct_index": 2,
+          "explanation": "Daptomycin is bound and inactivated by pulmonary surfactant, making it ineffective for pneumonia."
+        },
+        {
+          "question": "Which antibiotic is administered orally specifically to treat C. difficile?",
+          "options": [
+            "Metronidazole",
+            "Vancomycin",
+            "Linezolid",
+            "Ceftriaxone"
+          ],
+          "correct_index": 1,
+          "explanation": "Oral Vancomycin stays in the gut (not absorbed) and is the standard of care for C. difficile infection."
+        },
+        {
+          "question": "Which beta-lactam covers ESBL-producing organisms but does NOT cover Pseudomonas?",
+          "options": [
+            "Meropenem",
+            "Imipenem",
+            "Ertapenem",
+            "Piperacillin\u2013tazobactam"
+          ],
+          "correct_index": 2,
+          "explanation": "Ertapenem is the only carbapenem that lacks activity against Pseudomonas, Acinetobacter, and Enterococcus ('Ertapenem is the Exception')."
+        },
+        {
+          "question": "Which antibiotic is most associated with nephrotoxicity and ototoxicity?",
+          "options": [
+            "Aminoglycosides",
+            "TMP-SMX",
+            "Doxycycline",
+            "Linezolid"
+          ],
+          "correct_index": 0,
+          "explanation": "Aminoglycosides (e.g., Gentamicin) can cause acute tubular necrosis (nephrotoxicity) and permanent hearing loss (ototoxicity)."
+        },
+        {
+          "question": "Which cephalosporin is commonly used as empiric therapy for community-acquired pneumonia?",
+          "options": [
+            "Cefazolin",
+            "Cefuroxime",
+            "Ceftriaxone",
+            "Ceftazidime"
+          ],
+          "correct_index": 2,
+          "explanation": "Ceftriaxone (often combined with a macrolide) is the standard empiric treatment for hospitalized CAP."
+        },
+        {
+          "question": "Which antibiotic is considered first-line for zoonotic infections such as Q fever and brucellosis?",
+          "options": [
+            "Ciprofloxacin",
+            "Doxycycline",
+            "Metronidazole",
+            "TMP-SMX"
+          ],
+          "correct_index": 1,
+          "explanation": "Doxycycline is the drug of choice for intracellular zoonoses like Q fever (Coxiella), Brucella, and Rickettsia."
+        },
+        {
+          "question": "Which antibiotic has no activity against Streptococcus species?",
+          "options": [
+            "TMP-SMX",
+            "Amoxicillin-clavulanate",
+            "Ceftriaxone",
+            "Doxycycline"
+          ],
+          "correct_index": 0,
+          "explanation": "TMP-SMX has poor/unreliable activity against Group A Strep compared to beta-lactams, making it a poor choice for strep throat or cellulitis."
+        },
+        {
+          "question": "Which antibiotic is a last-line agent with poor tissue penetration?",
+          "options": [
+            "Vancomycin",
+            "Linezolid",
+            "Colistin",
+            "Daptomycin"
+          ],
+          "correct_index": 2,
+          "explanation": "Colistin (Polymyxin E) has poor tissue penetration (especially lungs/pleura) and significant nephrotoxicity."
+        },
+        {
+          "question": "Which fluoroquinolone is considered a respiratory fluoroquinolone?",
+          "options": [
+            "Ciprofloxacin",
+            "Levofloxacin",
+            "TMP-SMX",
+            "Azithromycin"
+          ],
+          "correct_index": 1,
+          "explanation": "Levofloxacin and Moxifloxacin have excellent activity against Strep. pneumoniae; Ciprofloxacin does not."
+        },
+        {
+          "question": "Which antibiotic combination is commonly used for hospital-acquired sepsis?",
+          "options": [
+            "Amoxicillin\u2013clavulanate",
+            "Ceftriaxone",
+            "Piperacillin\u2013tazobactam",
+            "Cefazolin"
+          ],
+          "correct_index": 2,
+          "explanation": "Piperacillin\u2013tazobactam (Zosyn) provides broad coverage including Pseudomonas and anaerobes, ideal for nosocomial sepsis."
+        },
+        {
+          "question": "Which antibiotic is associated with bone marrow suppression and thrombocytopenia?",
+          "options": [
+            "Linezolid",
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Metronidazole"
+          ],
+          "correct_index": 0,
+          "explanation": "Linezolid can cause reversible bone marrow suppression, most commonly thrombocytopenia, especially with use >2 weeks."
+        },
+        {
+          "question": "Which antibiotic is particularly useful for urinary tract infections due to high urinary concentration?",
+          "options": [
+            "Metronidazole",
+            "Aminoglycosides",
+            "Macrolides",
+            "Clindamycin"
+          ],
+          "correct_index": 1,
+          "explanation": "Aminoglycosides are excreted unchanged in the urine, achieving very high concentrations effective for treating UTIs."
+        },
+        {
+          "question": "Which antibiotic is known to cause tendon rupture and increased risk of aortic dissection?",
+          "options": [
+            "Doxycycline",
+            "TMP-SMX",
+            "Fluoroquinolones",
+            "Carbapenems"
+          ],
+          "correct_index": 2,
+          "explanation": "Fluoroquinolones carry black box warnings for tendinopathy/rupture (Achilles) and aortic aneurysm rupture."
+        },
+        {
+          "question": "Which antibiotic is active against anaerobes only?",
+          "options": [
+            "Metronidazole",
+            "Clindamycin",
+            "Piperacillin\u2013tazobactam",
+            "Amoxicillin"
+          ],
+          "correct_index": 0,
+          "explanation": "Metronidazole is active almost exclusively against anaerobes and protozoa."
+        },
+        {
+          "question": "Which antibiotic is commonly associated with C. difficile infection?",
+          "options": [
+            "Linezolid",
+            "Clindamycin",
+            "Daptomycin",
+            "Colistin"
+          ],
+          "correct_index": 1,
+          "explanation": "Clindamycin is historically the antibiotic with the highest relative risk for inducing C. difficile colitis."
+        },
+        {
+          "question": "Which antibiotic is used for MRSA in patients who cannot receive vancomycin due to renal failure?",
+          "options": [
+            "Ceftriaxone",
+            "Daptomycin",
+            "Linezolid",
+            "Piperacillin\u2013tazobactam"
+          ],
+          "correct_index": 2,
+          "explanation": "Linezolid is hepatically metabolized and does not require renal adjustment or monitoring, making it safe in renal failure."
+        },
+        {
+          "question": "Which beta-lactam is specifically active against MSSA?",
+          "options": [
+            "Aminopenicillin",
+            "Semisynthetic penicillin",
+            "Ceftriaxone",
+            "Piperacillin"
+          ],
+          "correct_index": 1,
+          "explanation": "Semisynthetic penicillins (Oxacillin, Nafcillin) are resistant to staphylococcal penicillinase and are drugs of choice for MSSA."
+        },
+        {
+          "question": "Which antibiotic is associated with esophagitis and tooth discoloration in children?",
+          "options": [
+            "TMP-SMX",
+            "Doxycycline",
+            "Ciprofloxacin",
+            "Metronidazole"
+          ],
+          "correct_index": 1,
+          "explanation": "Doxycycline can cause pill esophagitis and binds to calcium, leading to tooth discoloration in young children."
+        },
+        {
+          "question": "Which antibiotic is most nephrotoxic among last-line agents?",
+          "options": [
+            "Linezolid",
+            "Vancomycin",
+            "Colistin",
+            "Daptomycin"
+          ],
+          "correct_index": 2,
+          "explanation": "Colistin is notorious for its dose-dependent nephrotoxicity."
+        },
+        {
+          "question": "Which cephalosporin provides Pseudomonas coverage?",
+          "options": [
+            "Ceftriaxone",
+            "Cefazolin",
+            "Ceftazidime",
+            "Cefuroxime"
+          ],
+          "correct_index": 2,
+          "explanation": "Ceftazidime (3rd gen) and Cefepime (4th gen) are the cephalosporins with anti-pseudomonal activity."
+        },
+        {
+          "question": "Which antibiotic is commonly used to suppress toxin production in severe infections?",
+          "options": [
+            "Metronidazole",
+            "Clindamycin",
+            "Ciprofloxacin",
+            "Vancomycin"
+          ],
+          "correct_index": 1,
+          "explanation": "Clindamycin inhibits protein synthesis and is added in necrotizing fasciitis/TSS to halt toxin production."
+        },
+        {
+          "question": "Which antibiotic is effective against PCP (Pneumocystis pneumonia)?",
+          "options": [
+            "Ciprofloxacin",
+            "TMP-SMX",
+            "Doxycycline",
+            "Azithromycin"
+          ],
+          "correct_index": 1,
+          "explanation": "TMP-SMX is the drug of choice for both prophylaxis and treatment of Pneumocystis jirovecii pneumonia."
+        },
+        {
+          "question": "Which antibiotic is associated with Red Man Syndrome?",
+          "options": [
+            "Linezolid",
+            "Vancomycin",
+            "Daptomycin",
+            "TMP-SMX"
+          ],
+          "correct_index": 1,
+          "explanation": "Red Man Syndrome is a histamine-mediated reaction to rapid infusion of Vancomycin."
+        },
+        {
+          "question": "Which carbapenem has the broadest spectrum including Pseudomonas?",
+          "options": [
+            "Ertapenem",
+            "Imipenem",
+            "Cefepime",
+            "Amoxicillin"
+          ],
+          "correct_index": 1,
+          "explanation": "Imipenem and Meropenem cover Pseudomonas, whereas Ertapenem does not."
+        },
+        {
+          "question": "Which antibiotic is commonly used for atypical pneumonia pathogens?",
+          "options": [
+            "Ceftriaxone",
+            "Macrolides",
+            "Aminoglycosides",
+            "Metronidazole"
+          ],
+          "correct_index": 1,
+          "explanation": "Macrolides (Azithromycin) cover atypicals like Mycoplasma, Legionella, and Chlamydia pneumoniae."
+        },
+        {
+          "question": "Which antibiotic increases serum creatinine and potassium levels?",
+          "options": [
+            "TMP-SMX",
+            "Linezolid",
+            "Ciprofloxacin",
+            "Doxycycline"
+          ],
+          "correct_index": 0,
+          "explanation": "Trimethoprim blocks creatinine secretion (pseudo-elevation) and acts like a K+-sparing diuretic (hyperkalemia)."
+        },
+        {
+          "question": "Which antibiotic is ineffective against Gram-negative organisms?",
+          "options": [
+            "Vancomycin",
+            "Ciprofloxacin",
+            "Piperacillin\u2013tazobactam",
+            "Ceftriaxone"
+          ],
+          "correct_index": 0,
+          "explanation": "Vancomycin is a large molecule that cannot penetrate the outer membrane of Gram-negative bacteria."
+        },
+        {
+          "question": "Which antibiotic combination includes a beta-lactamase inhibitor?",
+          "options": [
+            "Ceftriaxone",
+            "Amoxicillin\u2013clavulanate",
+            "Meropenem",
+            "Linezolid"
+          ],
+          "correct_index": 1,
+          "explanation": "Clavulanate is a beta-lactamase inhibitor combined with Amoxicillin (Augmentin)."
+        },
+        {
+          "question": "Which antibiotic is associated with seizure risk, especially at high doses?",
+          "options": [
+            "Metronidazole",
+            "Ertapenem",
+            "Imipenem",
+            "Azithromycin"
+          ],
+          "correct_index": 2,
+          "explanation": "Imipenem lowers the seizure threshold, especially in patients with renal failure or CNS pathology."
+        }
+      ]
     }
+  }
+}
   }
 }
 
