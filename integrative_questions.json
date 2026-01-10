@@ -4544,7 +4544,665 @@
   }
 }
   }
+  
+},
+
+"Infectious Diseases": {
+  "drawers": {
+    "Gynecological Infections": {
+      "description": "PID, Chorioamnionitis, Endometritis, and SSI",
+      "content": {
+        "Gynecological Syndromes": {
+          "Pelvic Inflammatory Disease (PID)": [
+            {
+              "question": "A 24-year-old woman presents with lower abdominal pain, fever, and cervical motion tenderness. She is hemodynamically stable and able to tolerate oral intake. What is the most appropriate outpatient treatment regimen?",
+              "options": [
+                "Ceftriaxone IM + doxycycline + metronidazole",
+                "Ceftriaxone IM alone",
+                "Doxycycline monotherapy",
+                "Ciprofloxacin + metronidazole"
+              ],
+              "correct_index": 0,
+              "explanation": "PID requires coverage for Neisseria gonorrhoeae, Chlamydia trachomatis, and anaerobes. Combination therapy (Ceftriaxone + Doxy + Metro) is the recommended outpatient regimen."
+            },
+            {
+              "question": "Which of the following is an indication for inpatient treatment of PID?",
+              "options": [
+                "Mild abdominal pain",
+                "Age under 25",
+                "Pregnancy",
+                "Positive chlamydia PCR"
+              ],
+              "correct_index": 2,
+              "explanation": "Pregnancy mandates inpatient IV therapy to prevent complications to the fetus and mother."
+            },
+            {
+              "question": "Which complication is most strongly associated with delayed or inadequate treatment of PID?",
+              "options": [
+                "Chronic pelvic pain and infertility",
+                "Acute renal failure",
+                "Endocarditis",
+                "Hepatic encephalopathy"
+              ],
+              "correct_index": 0,
+              "explanation": "PID causes tubal scarring which can lead to infertility, ectopic pregnancy, and chronic pelvic pain."
+            },
+            {
+              "question": "Which organism is most commonly implicated in PID?",
+              "options": [
+                "Escherichia coli",
+                "Mycoplasma pneumoniae",
+                "Neisseria gonorrhoeae",
+                "Staphylococcus epidermidis"
+              ],
+              "correct_index": 2,
+              "explanation": "Neisseria gonorrhoeae and Chlamydia trachomatis are the key causative pathogens of PID."
+            }
+          ],
+          "Chorioamnionitis": [
+            {
+              "question": "A woman in prolonged labor develops fever, uterine tenderness, and fetal tachycardia. What is the cornerstone of management?",
+              "options": [
+                "Broad-spectrum antibiotics only",
+                "Immediate cesarean section",
+                "Source control by delivery plus antibiotics",
+                "Observation until cultures return"
+              ],
+              "correct_index": 2,
+              "explanation": "Treatment requires delivery (source control) plus antibiotics. C-section is not mandatory unless there is an obstetric indication."
+            },
+            {
+              "question": "Which risk factor most strongly predisposes to chorioamnionitis?",
+              "options": [
+                "Advanced maternal age",
+                "Short labor duration",
+                "Prolonged rupture of membranes",
+                "Previous cesarean section"
+              ],
+              "correct_index": 2,
+              "explanation": "Prolonged rupture of membranes (PROM) increases the risk of ascending infection from the vagina."
+            }
+          ],
+          "Postpartum Endometritis": [
+            {
+              "question": "Which antibiotic regimen is first-line for postpartum endometritis after cesarean delivery?",
+              "options": [
+                "Ceftriaxone + doxycycline",
+                "Clindamycin + gentamicin",
+                "Ampicillin alone",
+                "Metronidazole monotherapy"
+              ],
+              "correct_index": 1,
+              "explanation": "Clindamycin + Gentamicin is the classic gold-standard regimen covering anaerobes and Gram-negatives."
+            },
+            {
+              "question": "Which clinical feature is most characteristic of postpartum endometritis?",
+              "options": [
+                "Painless vaginal bleeding",
+                "Foul-smelling lochia with uterine tenderness",
+                "Isolated leukopenia",
+                "Pruritic vaginal discharge"
+              ],
+              "correct_index": 1,
+              "explanation": "Fever, uterine tenderness, and foul-smelling lochia are the hallmark triad."
+            },
+            {
+              "question": "When should ampicillin be added to the standard clindamycin + gentamicin regimen?",
+              "options": [
+                "If fever persists beyond 48\u201372 hours",
+                "In all patients routinely",
+                "Only in vaginal deliveries",
+                "Only if MRSA is suspected"
+              ],
+              "correct_index": 0,
+              "explanation": "Persistent fever despite treatment suggests Enterococcus infection, which requires Ampicillin."
+            }
+          ],
+          "Surgical Site Infection (SSI)": [
+            {
+              "question": "A patient presents 6 days after gynecologic surgery with erythema, warmth, and purulent drainage at the incision site. What is the most common causative organism?",
+              "options": [
+                "Escherichia coli",
+                "Enterococcus faecalis",
+                "Staphylococcus aureus",
+                "Bacteroides fragilis"
+              ],
+              "correct_index": 2,
+              "explanation": "Staphylococcus aureus is the most common cause of skin and soft tissue SSI."
+            }
+          ]
+        }
+      }
+    },
+    "Gastrointestinal Infections": {
+      "description": "Intra-abdominal infections, Diarrhea, and Dysentery",
+      "content": {
+        "GI Syndromes": {
+          "Intra-abdominal Infection": [
+            {
+              "question": "A patient presents with diffuse abdominal pain, guarding, and rebound tenderness. What is the most important initial management step?",
+              "options": [
+                "Empiric antibiotics only",
+                "Source control",
+                "Blood cultures",
+                "CT abdomen with contrast"
+              ],
+              "correct_index": 1,
+              "explanation": "In intra-abdominal infections (like perforation), source control (surgery/drainage) is the most critical step."
+            },
+            {
+              "question": "Which empiric regimen is appropriate for community-acquired peritonitis?",
+              "options": [
+                "Ceftriaxone + metronidazole",
+                "Vancomycin alone",
+                "Ciprofloxacin monotherapy",
+                "Linezolid + azithromycin"
+              ],
+              "correct_index": 0,
+              "explanation": "Ceftriaxone covers Gram-negatives, and Metronidazole covers anaerobes, which is the standard empiric therapy."
+            },
+            {
+              "question": "Which organism is most likely ESBL-producing in the community?",
+              "options": [
+                "Enterococcus faecalis",
+                "Staphylococcus aureus",
+                "Escherichia coli",
+                "Streptococcus pneumoniae"
+              ],
+              "correct_index": 2,
+              "explanation": "E. coli is the most common Gram-negative pathogen to develop ESBL resistance in the community."
+            }
+          ],
+          "Acute Diarrhea": [
+            {
+              "question": "Which pathogen is most commonly associated with cruise ship\u2013related outbreaks?",
+              "options": [
+                "Salmonella",
+                "Campylobacter",
+                "Norovirus",
+                "Shigella"
+              ],
+              "correct_index": 2,
+              "explanation": "Norovirus is highly contagious and classic for outbreaks in closed environments like cruise ships."
+            },
+            {
+              "question": "Which diarrheal illness is typically self-limited and does NOT require antibiotics?",
+              "options": [
+                "Shigella",
+                "Severe Campylobacter",
+                "Norovirus",
+                "Cholera"
+              ],
+              "correct_index": 2,
+              "explanation": "Norovirus is viral and self-limited; antibiotics are ineffective and not indicated."
+            }
+          ],
+          "Dysentery": [
+            {
+              "question": "Which pathogen produces Shiga toxin and is associated with hemolytic uremic syndrome?",
+              "options": [
+                "Salmonella enteritidis",
+                "EHEC",
+                "Vibrio cholerae",
+                "Giardia lamblia"
+              ],
+              "correct_index": 1,
+              "explanation": "Enterohemorrhagic E. coli (EHEC), specifically O157:H7, produces Shiga toxin which causes HUS."
+            },
+            {
+              "question": "Which pathogen is most associated with undercooked poultry?",
+              "options": [
+                "Shigella",
+                "Campylobacter jejuni",
+                "Vibrio cholerae",
+                "Yersinia pestis"
+              ],
+              "correct_index": 1,
+              "explanation": "Campylobacter jejuni is classically transmitted via undercooked poultry."
+            }
+          ],
+          "Persistent Diarrhea": [
+            {
+              "question": "Which organism most commonly causes chronic watery diarrhea with bloating and flatulence?",
+              "options": [
+                "Entamoeba histolytica",
+                "Giardia lamblia",
+                "Campylobacter jejuni",
+                "Norovirus"
+              ],
+              "correct_index": 1,
+              "explanation": "Giardia is a protozoan that causes malabsorption, greasy stools, bloating, and flatulence."
+            },
+            {
+              "question": "Which treatment is first-line for giardiasis?",
+              "options": [
+                "Azithromycin",
+                "Metronidazole",
+                "Ceftriaxone",
+                "TMP-SMX"
+              ],
+              "correct_index": 1,
+              "explanation": "Metronidazole is the treatment of choice for Giardia."
+            }
+          ],
+          "Cholera": [
+            {
+              "question": "What is the most important life-saving treatment in cholera?",
+              "options": [
+                "Azithromycin",
+                "Oral rehydration therapy",
+                "Ciprofloxacin",
+                "Metronidazole"
+              ],
+              "correct_index": 1,
+              "explanation": "Death in cholera results from massive dehydration. Rehydration (ORT/IV) is the priority over antibiotics."
+            }
+          ]
+        }
+      }
+    },
+    "Orthopedic Infections": {
+      "description": "Cellulitis, Osteomyelitis, and Septic Arthritis",
+      "content": {
+        "Bone & Joint Infections": {
+          "Cellulitis": [
+            {
+              "question": "The most common causative organism of uncomplicated cellulitis is:",
+              "options": [
+                "Pseudomonas aeruginosa",
+                "Streptococcus pyogenes",
+                "Enterococcus faecalis",
+                "Escherichia coli"
+              ],
+              "correct_index": 1,
+              "explanation": "Group A Streptococcus (Streptococcus pyogenes) is the leading cause of non-purulent cellulitis."
+            },
+            {
+              "question": "First-line oral therapy for mild cellulitis?",
+              "options": [
+                "Cefalexin",
+                "Vancomycin",
+                "Meropenem",
+                "Linezolid"
+              ],
+              "correct_index": 0,
+              "explanation": "Cephalexin (Keflex) provides good coverage for MSSA and Streptococci."
+            }
+          ],
+          "Septic Arthritis": [
+            {
+              "question": "Which synovial fluid finding strongly suggests septic arthritis?",
+              "options": [
+                "WBC <10,000",
+                "Lymphocyte predominance",
+                "WBC >50,000",
+                "Normal glucose"
+              ],
+              "correct_index": 2,
+              "explanation": "A synovial WBC count >50,000 with neutrophil predominance is highly suggestive of septic arthritis."
+            },
+            {
+              "question": "Which organism is typical in young sexually active adults?",
+              "options": [
+                "Staphylococcus aureus",
+                "Neisseria gonorrhoeae",
+                "Streptococcus viridans",
+                "Pseudomonas aeruginosa"
+              ],
+              "correct_index": 1,
+              "explanation": "Disseminated Gonococcal Infection (DGI) is a common cause of septic arthritis in this demographic."
+            }
+          ],
+          "Necrotizing Fasciitis": [
+            {
+              "question": "Which clinical feature is most characteristic of necrotizing fasciitis?",
+              "options": [
+                "Mild pain",
+                "Pain out of proportion to exam",
+                "Pruritus",
+                "Chronic course"
+              ],
+              "correct_index": 1,
+              "explanation": "Pain out of proportion to the visible skin findings is a hallmark red flag."
+            },
+            {
+              "question": "Which organism produces superantigens?",
+              "options": [
+                "E. coli",
+                "GAS",
+                "Enterococcus",
+                "Proteus"
+              ],
+              "correct_index": 1,
+              "explanation": "Group A Strep (GAS) produces superantigens causing Toxic Shock Syndrome in nec fasc."
+            }
+          ],
+          "Osteomyelitis": [
+            {
+              "question": "Which pathogen is classically associated with chronic osteomyelitis?",
+              "options": [
+                "Staphylococcus aureus",
+                "Streptococcus pneumoniae",
+                "Neisseria meningitidis",
+                "Haemophilus influenzae"
+              ],
+              "correct_index": 0,
+              "explanation": "S. aureus is the most common cause of both acute and chronic osteomyelitis."
+            },
+            {
+              "question": "Which zoonotic pathogen can cause osteomyelitis?",
+              "options": [
+                "Brucella",
+                "Giardia",
+                "RSV",
+                "HPV"
+              ],
+              "correct_index": 0,
+              "explanation": "Brucellosis (from unpasteurized dairy/animals) often affects the spine (spondylitis)."
+            }
+          ],
+          "Diabetic Foot Infection": [
+            {
+              "question": "What is the most important preventive measure?",
+              "options": [
+                "Prophylactic antibiotics",
+                "Tight glycemic control and foot care",
+                "Routine imaging",
+                "Long-term antifungals"
+              ],
+              "correct_index": 1,
+              "explanation": "Prevention relies on inspecting feet daily and managing diabetes to prevent neuropathy and vasculopathy."
+            }
+          ],
+          "Animal Bites": [
+            {
+              "question": "First-line antibiotic for dog and cat bites?",
+              "options": [
+                "Cefazolin",
+                "Clindamycin",
+                "Amoxicillin-clavulanate",
+                "Doxycycline"
+              ],
+              "correct_index": 2,
+              "explanation": "Augmentin covers Pasteurella multocida (cats/dogs) as well as Staph and anaerobes."
+            }
+          ]
+        }
+      }
+    },
+    "UTI": {
+      "description": "Cystitis, Pyelonephritis, and Asymptomatic Bacteriuria",
+      "content": {
+        "Urinary Tract Infections": {
+          "Uncomplicated Cystitis": [
+            {
+              "question": "Most common causative organism?",
+              "options": [
+                "Klebsiella pneumoniae",
+                "Enterococcus faecalis",
+                "Escherichia coli",
+                "Staphylococcus aureus"
+              ],
+              "correct_index": 2,
+              "explanation": "E. coli causes approximately 80% of community-acquired uncomplicated UTIs."
+            }
+          ],
+          "Pyelonephritis": [
+            {
+              "question": "Which symptom suggests upper tract involvement?",
+              "options": [
+                "Dysuria",
+                "Urinary frequency",
+                "Flank pain and fever",
+                "Suprapubic pain"
+              ],
+              "correct_index": 2,
+              "explanation": "Flank pain (CVA tenderness) and fever distinguish pyelonephritis from simple cystitis."
+            },
+            {
+              "question": "Preferred oral therapy when sensitive?",
+              "options": [
+                "Nitrofurantoin",
+                "Ciprofloxacin",
+                "Fosfomycin",
+                "TMP-SMX for 1 day"
+              ],
+              "correct_index": 1,
+              "explanation": "Fluoroquinolones (like Cipro) achieve high kidney tissue levels, unlike Nitrofurantoin."
+            }
+          ],
+          "Asymptomatic Bacteriuria": [
+            {
+              "question": "Which patient requires treatment for asymptomatic bacteriuria?",
+              "options": [
+                "Elderly man",
+                "Patient with Foley catheter",
+                "Pregnant woman",
+                "Diabetic woman"
+              ],
+              "correct_index": 2,
+              "explanation": "Pregnancy is a strict indication to treat ASB to prevent pyelonephritis and preterm labor."
+            }
+          ],
+          "Complicated UTI": [
+            {
+              "question": "Which organism is associated with struvite stones?",
+              "options": [
+                "E. coli",
+                "Proteus mirabilis",
+                "Enterococcus",
+                "Candida"
+              ],
+              "correct_index": 1,
+              "explanation": "Proteus produces urease, which alkalinizes urine and leads to struvite (magnesium ammonium phosphate) stones."
+            }
+          ],
+          "Catheter-associated UTI": [
+            {
+              "question": "First management step?",
+              "options": [
+                "Add antifungals",
+                "Change or remove catheter",
+                "Prolong antibiotics",
+                "Imaging immediately"
+              ],
+              "correct_index": 1,
+              "explanation": "Removing or changing the colonized catheter is essential for cure."
+            }
+          ],
+          "Candiduria": [
+            {
+              "question": "When is treatment indicated for Candiduria?",
+              "options": [
+                "Always",
+                "Never",
+                "Symptomatic patient or before urologic procedure",
+                "Elderly patients"
+              ],
+              "correct_index": 2,
+              "explanation": "Asymptomatic Candida in urine is usually colonization and isn't treated unless symptoms exist or surgery is planned."
+            }
+          ],
+          "Diagnosis": [
+            {
+              "question": "Which test confirms UTI?",
+              "options": [
+                "Urinalysis alone",
+                "Blood culture",
+                "Urine culture",
+                "Imaging"
+              ],
+              "correct_index": 2,
+              "explanation": "Urine culture quantifying >10^5 CFU/mL is the confirmatory gold standard."
+            }
+          ],
+          "Pregnancy": [
+            {
+              "question": "Safe antibiotic in pregnancy?",
+              "options": [
+                "Ciprofloxacin",
+                "Doxycycline",
+                "Amoxicillin-clavulanate",
+                "TMP-SMX in first trimester"
+              ],
+              "correct_index": 2,
+              "explanation": "Beta-lactams like Amoxicillin-clavulanate are generally safe. Quinolones and Tetracyclines are contraindicated."
+            }
+          ],
+          "Urosepsis": [
+            {
+              "question": "Most important initial step?",
+              "options": [
+                "Imaging",
+                "Source control and antibiotics",
+                "Foley insertion",
+                "Oral antibiotics"
+              ],
+              "correct_index": 1,
+              "explanation": "Resuscitation + IV Antibiotics + Source Control (drainage if obstructed) are the pillars of sepsis management."
+            }
+          ]
+        }
+      }
+    },
+    "Congenital Infections": {
+      "description": "TORCH, CMV, Toxoplasmosis, Syphilis, and Rubella",
+      "content": {
+        "TORCH & Neonatal": {
+          "TORCH General": [
+            {
+              "question": "Which infection is the most common congenital infection worldwide?",
+              "options": [
+                "Toxoplasmosis",
+                "Rubella",
+                "CMV",
+                "HSV"
+              ],
+              "correct_index": 2,
+              "explanation": "Cytomegalovirus (CMV) is the most common congenital viral infection."
+            },
+            {
+              "question": "Which infection is associated with periventricular calcifications?",
+              "options": [
+                "HSV",
+                "CMV",
+                "Rubella",
+                "Syphilis"
+              ],
+              "correct_index": 1,
+              "explanation": "Periventricular calcifications are classic for CMV (Circumventricular = CMV)."
+            }
+          ],
+          "CMV": [
+            {
+              "question": "Most common long-term complication of congenital CMV?",
+              "options": [
+                "Vision loss",
+                "Hearing loss",
+                "Cardiac defects",
+                "Limb hypoplasia"
+              ],
+              "correct_index": 1,
+              "explanation": "Sensorineural hearing loss is the most common sequela of congenital CMV."
+            },
+            {
+              "question": "Which diagnostic test confirms congenital CMV?",
+              "options": [
+                "IgG serology",
+                "PCR from urine or saliva",
+                "Blood culture",
+                "Chest X-ray"
+              ],
+              "correct_index": 1,
+              "explanation": "Detection of CMV DNA in urine or saliva within the first 3 weeks of life confirms the diagnosis."
+            }
+          ],
+          "Toxoplasmosis": [
+            {
+              "question": "Classic triad includes all EXCEPT:",
+              "options": [
+                "Hydrocephalus",
+                "Chorioretinitis",
+                "Intracranial calcifications",
+                "Patent ductus arteriosus"
+              ],
+              "correct_index": 3,
+              "explanation": "The triad is Hydrocephalus, Chorioretinitis, and Intracranial calcifications. PDA is associated with Rubella."
+            },
+            {
+              "question": "First-line maternal treatment early in pregnancy?",
+              "options": [
+                "Pyrimethamine",
+                "Sulfadiazine",
+                "Spiramycin",
+                "TMP-SMX"
+              ],
+              "correct_index": 2,
+              "explanation": "Spiramycin is used in early pregnancy to prevent transmission to the fetus (it does not cross the placenta well)."
+            }
+          ],
+          "Syphilis": [
+            {
+              "question": "Best treatment for congenital syphilis?",
+              "options": [
+                "Ceftriaxone",
+                "Doxycycline",
+                "Penicillin",
+                "Azithromycin"
+              ],
+              "correct_index": 2,
+              "explanation": "Penicillin G is the only known effective treatment for preventing and treating congenital syphilis."
+            },
+            {
+              "question": "Which maternal test is most useful for screening?",
+              "options": [
+                "FTA-ABS",
+                "VDRL/RPR",
+                "Blood culture",
+                "PCR"
+              ],
+              "correct_index": 1,
+              "explanation": "Non-treponemal tests (VDRL/RPR) are used for screening and monitoring treatment response."
+            }
+          ],
+          "Rubella": [
+            {
+              "question": "Which finding is classic for Congenital Rubella Syndrome?",
+              "options": [
+                "Hearing loss only",
+                "Cataracts and PDA",
+                "Limb hypoplasia",
+                "Hepatosplenomegaly only"
+              ],
+              "correct_index": 1,
+              "explanation": "The classic triad includes Cataracts, Cardiac defects (PDA), and Deafness."
+            }
+          ],
+          "HSV": [
+            {
+              "question": "Most common mode of neonatal transmission?",
+              "options": [
+                "Transplacental",
+                "Breastfeeding",
+                "Peripartum vaginal delivery",
+                "Blood transfusion"
+              ],
+              "correct_index": 2,
+              "explanation": "Most cases are acquired during passage through an infected birth canal."
+            }
+          ]
+        }
+      }
+    }
+  }
 }
+
+
+  
+
+
+
+
       
     }
   }
