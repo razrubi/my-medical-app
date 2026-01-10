@@ -24,10 +24,11 @@ if 'question_answered' not in st.session_state: st.session_state.question_answer
 if 'last_choice' not in st.session_state: st.session_state.last_choice = None
 
 # --- CONSTANTS FOR AESTHETICS ---
-# כאן שינינו את האימוג'י של הכבד למבחנה 🧪
+# כאן הוספנו את החיידק 🦠
 SYSTEM_CONFIG = {
     "Liver System": {"display_name": "Hepatology", "emoji": "🧪"},
-    "Digestive System": {"display_name": "Digestive System", "emoji": "🥨"}
+    "Digestive System": {"display_name": "Digestive System", "emoji": "🥨"},
+    "Infectious Diseases": {"display_name": "Infectious Diseases", "emoji": "🦠"}
 }
 
 def get_system_display(sys_key):
